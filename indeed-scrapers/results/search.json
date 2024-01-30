@@ -1,0 +1,3201 @@
+[
+  {
+    "additionalLocationLink": {
+      "label": "+30 locations",
+      "url": "/addlLoc/redirect?tk=1hlbr990jk7pn800&jk=068aee28b79ad313&dest=%2Fjobs%3Fq%3D%26l%3DSheffield%252C%2BSouth%2BYorkshire%26grpKey%3DkAO_7QiYA_DNJ6ADAfIHA3RjbA%253D%253D"
+    },
+    "appliedOrGreater": false,
+    "applyCount": 0,
+    "blobKey": "SoBX67M3Fr-q_kzOlZ0LbzkdCdPP",
+    "clickLoggingUrl": "/rc/clk?jk=068aee28b79ad313&from=jasx&tk=1hlbr990jk7pn800&bb=CcJ391SNJQpTN1oew-GA4Y-X5Nex54fot3V2ikrtP1o-plgMhg_d6vIDNWEAtm1B-UFZoeDkbnTMUBBymOQsJ-Q8BTfsAqFLcE0uc1ToFZCiONw8mLdbgQ%3D%3D&xkcb=SoBX67M3Fr-q_kzOlZ0LbzkdCdPP&vjs=2",
+    "company": "Aldi",
+    "companyBrandingAttributes": {
+      "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/8710e3465a53659d9f40f12ff3c2f785",
+      "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/763c731e75051d673fddb17e579cb272"
+    },
+    "companyIdEncrypted": "419801c05606d650",
+    "companyOverviewLink": "/cmp/Aldi",
+    "companyOverviewLinkCampaignId": "serp-linkcompanyname-content",
+    "companyRating": 3.2,
+    "companyReviewCount": 13010,
+    "companyReviewLink": "/cmp/Aldi/reviews",
+    "companyReviewLinkCampaignId": "cmplinktst2",
+    "createDate": 1583178490000,
+    "d2iEnabled": false,
+    "displayTitle": "Store Assistant",
+    "dradisJob": false,
+    "employerAssistEnabled": false,
+    "employerResponsive": false,
+    "encryptedFccompanyId": "dddeee5adfe17521",
+    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+    "enhancedAttributesModel": {},
+    "enticers": [],
+    "expired": false,
+    "extractTrackingUrls": "",
+    "extractedSalary": {
+      "max": 12.3,
+      "min": 11.4,
+      "type": "hourly"
+    },
+    "fccompanyId": -1,
+    "featuredCompanyAttributes": {},
+    "featuredEmployer": false,
+    "featuredEmployerCandidate": false,
+    "feedId": 78227,
+    "formattedLocation": "Sheffield S6",
+    "formattedRelativeTime": "30+ days ago",
+    "hideMetaData": false,
+    "highQualityMarketplace": {
+      "match": false
+    },
+    "highVolumeHiringModel": {
+      "highVolumeHiring": false
+    },
+    "hiringEventJob": false,
+    "homepageJobFeedSectionId": "0",
+    "indeedApplyEnabled": false,
+    "indeedApplyable": false,
+    "isJobVisited": false,
+    "isMobileThirdPartyApplyable": true,
+    "isNoResumeJob": false,
+    "isSubsidiaryJob": false,
+    "jobCardRequirementsModel": {
+      "additionalRequirementsCount": 0,
+      "jobTagRequirements": [],
+      "requirementsHeaderShown": false
+    },
+    "jobLocationCity": "Sheffield",
+    "jobLocationPostal": "S6 2BF",
+    "jobLocationState": "ENG",
+    "jobTypes": [
+      "Permanent"
+    ],
+    "jobkey": "068aee28b79ad313",
+    "jsiEnabled": false,
+    "link": "/rc/clk?jk=068aee28b79ad313&bb=CcJ391SNJQpTN1oew-GA4Y-X5Nex54fot3V2ikrtP1o-plgMhg_d6vIDNWEAtm1BLitOGP2akQU-syTc0z7Muh_KaKcdvmWECEKNyzaRv5s%3D&xkcb=SoBX67M3Fr-q_kzOlZ0LbzkdCdPP&fccid=419801c05606d650&vjs=3",
+    "locationCount": 31,
+    "loceJobTagModel": {},
+    "mobtk": "1hlbr990jk7pn800",
+    "moreLinks": {
+      "companyName": "Aldi",
+      "companyText": "Aldi jobs",
+      "locationName": "Sheffield",
+      "qnaUrl": "/cmp/Aldi/faq",
+      "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=068aee28b79ad313&jcid=419801c05606d650",
+      "resultNumber": 0,
+      "salaryLocationName": "Sheffield",
+      "salaryNoFollowLink": false,
+      "salaryUrl": "/career/retail-sales-associate/salaries/Sheffield-S6",
+      "salaryUrlParams": "?campaignid=serp-more&fromjk=068aee28b79ad313&from=serp-more",
+      "shortLocationName": "Sheffield",
+      "showAcmeLink": true,
+      "showAcmeQnaLink": true,
+      "showViewAllCompanyAndLocationLinks": false,
+      "showViewAllCompanyLink": true,
+      "showViewAllLocationLink": false,
+      "showViewAllNormalizedTitleLink": true,
+      "viewAllCompanyLinkText": "Aldi jobs",
+      "viewAllCompanyUrl": "/q-aldi-jobs.html",
+      "viewAllLocationUrl": "/l-sheffield-jobs.html",
+      "viewAllNormalizedTitleLink": "/q-retail-sales-associate-l-sheffield-jobs.html",
+      "viewAllNormalizedTitleLinkText": "Retail Sales Associate jobs in Sheffield",
+      "visible": false
+    },
+    "moreLocUrl": "/jobs?q=&l=Sheffield%2C+South+Yorkshire&jtid=9edd0d086a9ae72a&jcid=419801c05606d650&grp=tcl",
+    "mouseDownHandlerOption": {
+      "adId": "",
+      "advn": "",
+      "extractTrackingUrls": [],
+      "from": "vjs",
+      "jobKey": "068aee28b79ad313",
+      "link": "/rc/clk?jk=068aee28b79ad313&bb=CcJ391SNJQpTN1oew-GA4Y-X5Nex54fot3V2ikrtP1o-plgMhg_d6vIDNWEAtm1BLitOGP2akQU-syTc0z7Muh_KaKcdvmWECEKNyzaRv5s%3D&xkcb=SoBX67M3Fr-q_kzOlZ0LbzkdCdPP&fccid=419801c05606d650&vjs=3",
+      "tk": "1hlbr990jk7pn800"
+    },
+    "newJob": false,
+    "normTitle": "Retail Sales Associate",
+    "openInterviewsInterviewsOnTheSpot": false,
+    "openInterviewsJob": false,
+    "openInterviewsOffersOnTheSpot": false,
+    "openInterviewsPhoneJob": false,
+    "organicApplyStartCount": 4972,
+    "organicBlob": "CcJ391SNJQpTN1oew-GA4Y-X5Nex54fot3V2ikrtP1o-plgMhg_d6vIDNWEAtm1BLitOGP2akQU-syTc0z7Muh_KaKcdvmWECEKNyzaRv5s=",
+    "overrideIndeedApplyText": true,
+    "preciseLocationModel": {
+      "obfuscateLocation": false,
+      "overrideJCMPreciseLocationModel": true
+    },
+    "pubDate": 1583128800000,
+    "rankingScoresModel": {
+      "bid": 0,
+      "eApply": 0.015678702,
+      "eQualified": 0
+    },
+    "redirectToThirdPartySite": false,
+    "remoteLocation": false,
+    "resumeMatch": false,
+    "salarySnippet": {
+      "currency": "GBP",
+      "salaryTextFormatted": false,
+      "source": "EXTRACTION",
+      "text": "£11.40 - £12.30 an hour"
+    },
+    "saved": false,
+    "savedApplication": false,
+    "screenerQuestionsURL": "",
+    "searchUID": "1hlbr990jk7pn800",
+    "showAttainabilityBadge": false,
+    "showCommutePromo": false,
+    "showEarlyApply": false,
+    "showJobType": false,
+    "showRelativeDate": true,
+    "showSponsoredLabel": false,
+    "showStrongerAppliedLabel": false,
+    "smartFillEnabled": false,
+    "smbD2iEnabled": false,
+    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li>You'll do everything from checking off deliveries to dealing with enquiries or ensuring that the shelves are fully stocked with well-presented products.</li>\n</ul>",
+    "sourceId": 33320,
+    "sponsored": false,
+    "taxoAttributes": [],
+    "taxoAttributesDisplayLimit": 4,
+    "taxoLogAttributes": [],
+    "taxonomyAttributes": [
+      {
+        "attributes": [],
+        "label": "job-types"
+      },
+      {
+        "attributes": [],
+        "label": "shifts"
+      },
+      {
+        "attributes": [],
+        "label": "remote"
+      },
+      {
+        "attributes": [],
+        "label": "benefits"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Permanent",
+            "suid": "5QWDV"
+          }
+        ],
+        "label": "job-types-cc"
+      },
+      {
+        "attributes": [],
+        "label": "schedules"
+      }
+    ],
+    "thirdPartyApplyUrl": "http://uk.indeed.com//applystart?jk=068aee28b79ad313&from=jobsearch&mvj=0&jobsearchTk=1hlbr990jk7pn800&spon=0&adid=0&xkcb=SoBX67M3Fr-q_kzOlZ0LbzkdCdPP&sjdu=P3pODXR6Pgu-0_yNP8h7AG63ORGc6Cp8C4EAvHQ28_vRAKt-GJa1TlanU_SiAAR-Cm84YuNfLIUKwlzPtiD_X_A-wxHHKE83plQTauklqq25wNoD5QAy-AmcZTW-2G-ZJX73KhqTW9N0_LEgb4_aURHfP0LjLGcTkAkAETbr-SI1AiivKufH_9FthB6-yWAyN7ls_DZgRQLJpY8psI4n9wNxppjD6gBxaO7rzVTwqQEsq4Jt25XFsQtMs_0FVgnvqAVFbetDH3vSpo0cvyPAvg&vjfrom=vjs&astse=c0ecc750e9fbb629&assa=3021",
+    "tier": {
+      "matchedPreferences": {
+        "longMatchedPreferences": [],
+        "stringMatchedPreferences": []
+      },
+      "type": "DEFAULT"
+    },
+    "title": "Store Assistant",
+    "translatedAttributes": [],
+    "translatedCmiJobTags": [],
+    "truncatedCompany": "Aldi",
+    "urgentlyHiring": false,
+    "viewJobLink": "/viewjob?jk=068aee28b79ad313&from=vjs&tk=1hlbr990jk7pn800&viewtype=embedded&xkcb=SoBX67M3Fr-q_kzOlZ0LbzkdCdPP&continueUrl=%2Fjobs%3Fq%3D%26vjk%3De525df493a1ef7f8%26l%3DSheffield%252C%2BSouth%2BYorkshire",
+    "vjFeaturedEmployerCandidate": false
+  },
+  {
+    "additionalLocationLink": {
+      "label": "+2 locations",
+      "url": "/addlLoc/redirect?tk=1hlbr990jk7pn800&jk=69f4af73c0420f7a&dest=%2Fjobs%3Fq%3D%26l%3DSheffield%252C%2BSouth%2BYorkshire%26grpKey%3DkAPV-IcymAPL8tICoAMB8gcDdGNs"
+    },
+    "appliedOrGreater": false,
+    "applyCount": -1,
+    "blobKey": "SoDj67M3Fr-q_kzOlZ0KbzkdCdPP",
+    "clickLoggingUrl": "/rc/clk?jk=69f4af73c0420f7a&from=jasx&tk=1hlbr990jk7pn800&bb=CcJ391SNJQpTN1oew-GA4SVJg-LK6B1M9FN6Wx2cowMKH--xdz0XAxtz4QcC16wGyHu-7cHd6obUC-IrKoNbxKI3C_WUsWdlOJtifzfRjPqxy_aUiLccUw%3D%3D&xkcb=SoDj67M3Fr-q_kzOlZ0KbzkdCdPP&vjs=2",
+    "company": "Nando’s Chickenland Limited",
+    "companyBrandingAttributes": {
+      "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/3565b5c2d49785351aab7f877f85c9cb",
+      "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/fb5742f25ad7a3eefa1fdcdf8dd3b627"
+    },
+    "companyIdEncrypted": "c969fc58fdb83126",
+    "companyOverviewLink": "/cmp/Nando's-46e880e1",
+    "companyOverviewLinkCampaignId": "serp-linkcompanyname-content",
+    "companyRating": 3.9,
+    "companyReviewCount": 3814,
+    "companyReviewLink": "/cmp/Nando's-46e880e1/reviews",
+    "companyReviewLinkCampaignId": "cmplinktst2",
+    "createDate": 1706554672000,
+    "d2iEnabled": false,
+    "displayTitle": "Front of house team member",
+    "dradisJob": false,
+    "employerAssistEnabled": false,
+    "employerResponsive": false,
+    "encryptedFccompanyId": "59b628dbbfccc640",
+    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+    "enhancedAttributesModel": {},
+    "enticers": [],
+    "expired": false,
+    "extractTrackingUrls": "",
+    "extractedSalary": {
+      "max": 10.42,
+      "min": 10.42,
+      "type": "hourly"
+    },
+    "fccompanyId": -1,
+    "featuredCompanyAttributes": {},
+    "featuredEmployer": false,
+    "featuredEmployerCandidate": false,
+    "feedId": 43257,
+    "formattedLocation": "Sheffield S1",
+    "formattedRelativeTime": "Just posted",
+    "hideMetaData": false,
+    "highQualityMarketplace": {
+      "match": false
+    },
+    "highVolumeHiringModel": {
+      "highVolumeHiring": false
+    },
+    "hiringEventJob": false,
+    "homepageJobFeedSectionId": "0",
+    "indeedApplyEnabled": false,
+    "indeedApplyable": false,
+    "isJobVisited": false,
+    "isMobileThirdPartyApplyable": false,
+    "isNoResumeJob": false,
+    "isSubsidiaryJob": false,
+    "jobCardRequirementsModel": {
+      "additionalRequirementsCount": 0,
+      "jobTagRequirements": [],
+      "requirementsHeaderShown": false
+    },
+    "jobLocationCity": "Sheffield",
+    "jobLocationPostal": "S1 4EZ",
+    "jobLocationState": "ENG",
+    "jobTypes": [
+      "Part-time"
+    ],
+    "jobkey": "69f4af73c0420f7a",
+    "jsiEnabled": false,
+    "link": "/rc/clk?jk=69f4af73c0420f7a&bb=CcJ391SNJQpTN1oew-GA4SVJg-LK6B1M9FN6Wx2cowMKH--xdz0XAxtz4QcC16wG7uWsFP1yZ4a20hby-5szSeJVtvKA539CIquhMuxAadQ%3D&xkcb=SoDj67M3Fr-q_kzOlZ0KbzkdCdPP&fccid=63ee123169e34f88&vjs=3",
+    "locationCount": 3,
+    "loceJobTagModel": {},
+    "mobtk": "1hlbr990jk7pn800",
+    "moreLinks": {
+      "companyName": "Nando’s Chickenland Limited",
+      "companyText": "Nando’s Chickenland Limited jobs",
+      "locationName": "Sheffield",
+      "qnaUrl": "/cmp/Nando's-46e880e1/faq",
+      "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=69f4af73c0420f7a&jcid=c969fc58fdb83126",
+      "resultNumber": 1,
+      "salaryLocationName": "Sheffield",
+      "salaryNoFollowLink": false,
+      "salaryUrl": "/career/front-of-house-team-member/salaries/Sheffield-S1",
+      "salaryUrlParams": "?campaignid=serp-more&fromjk=69f4af73c0420f7a&from=serp-more",
+      "shortLocationName": "Sheffield",
+      "showAcmeLink": true,
+      "showAcmeQnaLink": true,
+      "showViewAllCompanyAndLocationLinks": false,
+      "showViewAllCompanyLink": true,
+      "showViewAllLocationLink": false,
+      "showViewAllNormalizedTitleLink": true,
+      "viewAllCompanyLinkText": "Nando’s Chickenland Limited jobs",
+      "viewAllCompanyUrl": "/q-nando%e2%80%99s-chickenland-limited-jobs.html",
+      "viewAllLocationUrl": "/l-sheffield-jobs.html",
+      "viewAllNormalizedTitleLink": "/q-front-of-house-team-member-l-sheffield-jobs.html",
+      "viewAllNormalizedTitleLinkText": "Front of House Team Member jobs in Sheffield",
+      "visible": false
+    },
+    "moreLocUrl": "/jobs?q=&l=Sheffield%2C+South+Yorkshire&jtid=e9dc26531472c40f&jcid=c969fc58fdb83126&grp=tcl",
+    "mouseDownHandlerOption": {
+      "adId": "",
+      "advn": "",
+      "extractTrackingUrls": [],
+      "from": "vjs",
+      "jobKey": "69f4af73c0420f7a",
+      "link": "/rc/clk?jk=69f4af73c0420f7a&bb=CcJ391SNJQpTN1oew-GA4SVJg-LK6B1M9FN6Wx2cowMKH--xdz0XAxtz4QcC16wG7uWsFP1yZ4a20hby-5szSeJVtvKA539CIquhMuxAadQ%3D&xkcb=SoDj67M3Fr-q_kzOlZ0KbzkdCdPP&fccid=63ee123169e34f88&vjs=3",
+      "tk": "1hlbr990jk7pn800"
+    },
+    "newJob": true,
+    "normTitle": "Front of House Team Member",
+    "openInterviewsInterviewsOnTheSpot": false,
+    "openInterviewsJob": false,
+    "openInterviewsOffersOnTheSpot": false,
+    "openInterviewsPhoneJob": false,
+    "organicApplyStartCount": 0,
+    "organicBlob": "CcJ391SNJQpTN1oew-GA4SVJg-LK6B1M9FN6Wx2cowMKH--xdz0XAxtz4QcC16wG7uWsFP1yZ4a20hby-5szSeJVtvKA539CIquhMuxAadQ=",
+    "overrideIndeedApplyText": true,
+    "preciseLocationModel": {
+      "obfuscateLocation": false,
+      "overrideJCMPreciseLocationModel": true
+    },
+    "pubDate": 1706508000000,
+    "rankingScoresModel": {
+      "bid": 0,
+      "eApply": 0.0140251005,
+      "eQualified": 0
+    },
+    "redirectToThirdPartySite": false,
+    "remoteLocation": false,
+    "resumeMatch": false,
+    "salarySnippet": {
+      "currency": "GBP",
+      "salaryTextFormatted": false,
+      "source": "EXTRACTION",
+      "text": "£10.42 an hour"
+    },
+    "saved": false,
+    "savedApplication": false,
+    "screenerQuestionsURL": "",
+    "searchUID": "1hlbr990jk7pn800",
+    "showAttainabilityBadge": false,
+    "showCommutePromo": false,
+    "showEarlyApply": false,
+    "showJobType": false,
+    "showRelativeDate": true,
+    "showSponsoredLabel": false,
+    "showStrongerAppliedLabel": false,
+    "smartFillEnabled": false,
+    "smbD2iEnabled": false,
+    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li style=\"margin-bottom:0px;\">I bring amazing food and drink to the table and make sure our customers have everything they need.</li>\n <li>I follow all fire safety, health and safety, food hygiene and…</li>\n</ul>",
+    "sourceId": 78842,
+    "sponsored": false,
+    "taxoAttributes": [],
+    "taxoAttributesDisplayLimit": 4,
+    "taxoLogAttributes": [],
+    "taxonomyAttributes": [
+      {
+        "attributes": [
+          {
+            "label": "Part-time",
+            "suid": "75GKK"
+          }
+        ],
+        "label": "job-types"
+      },
+      {
+        "attributes": [],
+        "label": "shifts"
+      },
+      {
+        "attributes": [],
+        "label": "remote"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Employee discount",
+            "suid": "SXFZX"
+          },
+          {
+            "label": "Referral programme",
+            "suid": "YDH5H"
+          }
+        ],
+        "label": "benefits"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Part-time",
+            "suid": "75GKK"
+          }
+        ],
+        "label": "job-types-cc"
+      },
+      {
+        "attributes": [],
+        "label": "schedules"
+      }
+    ],
+    "thirdPartyApplyUrl": "http://uk.indeed.com//applystart?jk=69f4af73c0420f7a&from=jobsearch&mvj=0&jobsearchTk=1hlbr990jk7pn800&spon=0&adid=0&xkcb=SoDj67M3Fr-q_kzOlZ0KbzkdCdPP&sjdu=Q4EDV3Moo4uoLVzLKYEIGu6CpiMh_KQU8V2t0Qit-3XRAKt-GJa1TlanU_SiAAR-htAzGem443O_hx38yHXrq-UITsgPDLlPWRjXhe1_zqQZQnkNrbt2MPZI5NEMY-eDYm3ZPV60meh2ZYUUwqNsgzgbhFAaS6J_3-qxP1ztzxPigoYF8MWdN8WfpGTi5WlOHwa9P2yuHj8MbAX6mftEXCTuB-Y3aZ7LOdq1F1NtXyuKPs_TkumrsbCRhsSi21QGCrG_5FvyCwvGj6hI2RmtWg&vjfrom=vjs&astse=30e818c67be8dd22&assa=3022",
+    "tier": {
+      "matchedPreferences": {
+        "longMatchedPreferences": [],
+        "stringMatchedPreferences": []
+      },
+      "type": "DEFAULT"
+    },
+    "title": "Front of house team member",
+    "translatedAttributes": [],
+    "translatedCmiJobTags": [
+      "社割あり"
+    ],
+    "truncatedCompany": "Nando’s Chickenland Limited",
+    "urgentlyHiring": false,
+    "viewJobLink": "/viewjob?jk=69f4af73c0420f7a&from=vjs&tk=1hlbr990jk7pn800&viewtype=embedded&xkcb=SoDj67M3Fr-q_kzOlZ0KbzkdCdPP&continueUrl=%2Fjobs%3Fq%3D%26vjk%3De525df493a1ef7f8%26l%3DSheffield%252C%2BSouth%2BYorkshire",
+    "vjFeaturedEmployerCandidate": false
+  },
+  {
+    "appliedOrGreater": false,
+    "applyCount": 0,
+    "blobKey": "SoB-67M3Fr-q_kzOlZ0JbzkdCdPP",
+    "clickLoggingUrl": "/rc/clk?jk=37042f3a9d5a6067&from=jasx&tk=1hlbr990jk7pn800&bb=CcJ391SNJQpTN1oew-GA4Tm44Sl7czfKoyjblgNGKNnjvUls2TDsd59qrdcGQ4BsH9B-ow-oec46dURg5sP7KLzfAPR6cEAiOWya6foZojGPL5gDjmyu_A%3D%3D&xkcb=SoB-67M3Fr-q_kzOlZ0JbzkdCdPP&vjs=2",
+    "company": "PDSA",
+    "companyBrandingAttributes": {
+      "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/557eaa1c4dd1ded3350c1bc4c30b8ad2"
+    },
+    "companyIdEncrypted": "eb97821dd274bbba",
+    "companyOverviewLink": "/cmp/Pdsa",
+    "companyOverviewLinkCampaignId": "",
+    "companyRating": 4.1,
+    "companyReviewCount": 780,
+    "companyReviewLink": "/cmp/Pdsa/reviews",
+    "companyReviewLinkCampaignId": "cmplinktst2",
+    "createDate": 1702571854000,
+    "d2iEnabled": false,
+    "displayTitle": "Receptionist",
+    "dradisJob": false,
+    "employerAssistEnabled": false,
+    "employerResponsive": false,
+    "encryptedFccompanyId": "e2caa8cb8d6df17a",
+    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+    "enhancedAttributesModel": {},
+    "enticers": [],
+    "expired": false,
+    "extractTrackingUrls": "",
+    "extractedSalary": {
+      "max": 11.25,
+      "min": 10.92,
+      "type": "hourly"
+    },
+    "fccompanyId": -1,
+    "featuredCompanyAttributes": {},
+    "featuredEmployer": false,
+    "featuredEmployerCandidate": false,
+    "feedId": 539557,
+    "formattedLocation": "Sheffield S9",
+    "formattedRelativeTime": "30+ days ago",
+    "hideMetaData": false,
+    "highQualityMarketplace": {
+      "match": false
+    },
+    "highVolumeHiringModel": {
+      "highVolumeHiring": false
+    },
+    "hiringEventJob": false,
+    "homepageJobFeedSectionId": "0",
+    "indeedApplyEnabled": false,
+    "indeedApplyable": false,
+    "isJobVisited": false,
+    "isMobileThirdPartyApplyable": true,
+    "isNoResumeJob": false,
+    "isSubsidiaryJob": false,
+    "jobCardRequirementsModel": {
+      "additionalRequirementsCount": 0,
+      "jobTagRequirements": [],
+      "requirementsHeaderShown": false
+    },
+    "jobLocationCity": "Sheffield",
+    "jobLocationPostal": "S9 2QL",
+    "jobLocationState": "ENG",
+    "jobTypes": [],
+    "jobkey": "37042f3a9d5a6067",
+    "jsiEnabled": false,
+    "link": "/rc/clk?jk=37042f3a9d5a6067&bb=CcJ391SNJQpTN1oew-GA4Tm44Sl7czfKoyjblgNGKNnjvUls2TDsd59qrdcGQ4BszTR4Yk336d0BApnzOK39NjPdXAIuajET5oU2JeRe0C8%3D&xkcb=SoB-67M3Fr-q_kzOlZ0JbzkdCdPP&fccid=eb97821dd274bbba&vjs=3",
+    "locationCount": 1,
+    "mobtk": "1hlbr990jk7pn800",
+    "moreLinks": {
+      "companyName": "PDSA",
+      "companyText": "PDSA jobs",
+      "locationName": "Sheffield",
+      "qnaUrl": "/cmp/Pdsa/faq",
+      "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=37042f3a9d5a6067&jcid=eb97821dd274bbba",
+      "resultNumber": 2,
+      "salaryLocationName": "Sheffield",
+      "salaryNoFollowLink": false,
+      "salaryUrl": "/career/receptionist/salaries/Sheffield-S9",
+      "salaryUrlParams": "?campaignid=serp-more&fromjk=37042f3a9d5a6067&from=serp-more",
+      "shortLocationName": "Sheffield",
+      "showAcmeLink": true,
+      "showAcmeQnaLink": true,
+      "showViewAllCompanyAndLocationLinks": false,
+      "showViewAllCompanyLink": true,
+      "showViewAllLocationLink": false,
+      "showViewAllNormalizedTitleLink": false,
+      "viewAllCompanyLinkText": "PDSA jobs",
+      "viewAllCompanyUrl": "/q-pdsa-jobs.html",
+      "viewAllLocationUrl": "/l-sheffield-jobs.html",
+      "visible": false
+    },
+    "moreLocUrl": "/jobs?q=&l=Sheffield%2C+South+Yorkshire&jtid=4fdb4b7a0a689136&jcid=eb97821dd274bbba&grp=tcl",
+    "mouseDownHandlerOption": {
+      "adId": "",
+      "advn": "",
+      "extractTrackingUrls": [],
+      "from": "vjs",
+      "jobKey": "37042f3a9d5a6067",
+      "link": "/rc/clk?jk=37042f3a9d5a6067&bb=CcJ391SNJQpTN1oew-GA4Tm44Sl7czfKoyjblgNGKNnjvUls2TDsd59qrdcGQ4BszTR4Yk336d0BApnzOK39NjPdXAIuajET5oU2JeRe0C8%3D&xkcb=SoB-67M3Fr-q_kzOlZ0JbzkdCdPP&fccid=eb97821dd274bbba&vjs=3",
+      "tk": "1hlbr990jk7pn800"
+    },
+    "newJob": false,
+    "normTitle": "Receptionist",
+    "openInterviewsInterviewsOnTheSpot": false,
+    "openInterviewsJob": false,
+    "openInterviewsOffersOnTheSpot": false,
+    "openInterviewsPhoneJob": false,
+    "organicApplyStartCount": 419,
+    "organicBlob": "CcJ391SNJQpTN1oew-GA4Tm44Sl7czfKoyjblgNGKNnjvUls2TDsd59qrdcGQ4BszTR4Yk336d0BApnzOK39NjPdXAIuajET5oU2JeRe0C8=",
+    "overrideIndeedApplyText": true,
+    "preciseLocationModel": {
+      "obfuscateLocation": false,
+      "overrideJCMPreciseLocationModel": true
+    },
+    "pubDate": 1702533600000,
+    "rankingScoresModel": {
+      "bid": 0,
+      "eApply": 0.01233517,
+      "eQualified": 0
+    },
+    "redirectToThirdPartySite": false,
+    "remoteLocation": false,
+    "resumeMatch": false,
+    "salarySnippet": {
+      "currency": "GBP",
+      "salaryTextFormatted": false,
+      "source": "EXTRACTION",
+      "text": "£10.92 - £11.25 an hour"
+    },
+    "saved": false,
+    "savedApplication": false,
+    "screenerQuestionsURL": "",
+    "searchUID": "1hlbr990jk7pn800",
+    "showAttainabilityBadge": false,
+    "showCommutePromo": false,
+    "showEarlyApply": false,
+    "showJobType": false,
+    "showRelativeDate": true,
+    "showSponsoredLabel": false,
+    "showStrongerAppliedLabel": false,
+    "smartFillEnabled": false,
+    "smbD2iEnabled": false,
+    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li>Working on the hospital’s busy reception, our Receptionists are responsible for processing clients who attend the hospital, answering telephone enquiries,…</li>\n</ul>",
+    "sourceId": 103442,
+    "sponsored": false,
+    "taxoAttributes": [],
+    "taxoAttributesDisplayLimit": 4,
+    "taxoLogAttributes": [],
+    "taxonomyAttributes": [
+      {
+        "attributes": [],
+        "label": "job-types"
+      },
+      {
+        "attributes": [],
+        "label": "shifts"
+      },
+      {
+        "attributes": [],
+        "label": "remote"
+      },
+      {
+        "attributes": [],
+        "label": "benefits"
+      },
+      {
+        "attributes": [],
+        "label": "job-types-cc"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Weekend availability",
+            "suid": "7SRRR"
+          }
+        ],
+        "label": "schedules"
+      }
+    ],
+    "thirdPartyApplyUrl": "http://uk.indeed.com//applystart?jk=37042f3a9d5a6067&from=jobsearch&mvj=0&jobsearchTk=1hlbr990jk7pn800&spon=0&adid=0&xkcb=SoB-67M3Fr-q_kzOlZ0JbzkdCdPP&sjdu=r-9klPeJzGNTBFnQfRc9_NozY0XKfnMrAj5c8-htVlTRAKt-GJa1TlanU_SiAAR-jOt8vXrfmgV6Y5aidrWt82vCnXbk7FCSZG7JfoAyEINbbD_odFYc6UuyPrhrL_tFXNYzqBK5FnjxbPxDH9pSLWVpPVgHfVEOakWHuP4v95j-IWp5W3ebvs-PcntqXK6vL2WvzYQQk9d74bnPQy2k8SMLzN36cgIiNKhFkUtZI2xcmtg5zR-nTG6xuL1L_Z6Owri6TGBEF_3uqJwYOhdRYw&vjfrom=vjs&astse=30e818c67be8dd22&assa=3022",
+    "tier": {
+      "matchedPreferences": {
+        "longMatchedPreferences": [],
+        "stringMatchedPreferences": []
+      },
+      "type": "DEFAULT"
+    },
+    "title": "Receptionist",
+    "translatedAttributes": [],
+    "translatedCmiJobTags": [],
+    "truncatedCompany": "PDSA",
+    "urgentlyHiring": false,
+    "viewJobLink": "/viewjob?jk=37042f3a9d5a6067&from=vjs&tk=1hlbr990jk7pn800&viewtype=embedded&xkcb=SoB-67M3Fr-q_kzOlZ0JbzkdCdPP&continueUrl=%2Fjobs%3Fq%3D%26vjk%3De525df493a1ef7f8%26l%3DSheffield%252C%2BSouth%2BYorkshire",
+    "vjFeaturedEmployerCandidate": false
+  },
+  {
+    "appliedOrGreater": false,
+    "applyCount": 0,
+    "blobKey": "SoDK67M3Fr-q_kzOlZ0IbzkdCdPP",
+    "clickLoggingUrl": "/rc/clk?jk=8278cd7d842ef011&from=jasx&tk=1hlbr990jk7pn800&bb=CcJ391SNJQpTN1oew-GA4Xjc9XMdhya-d4p-o3-_820NqAbYhPd697FgitnneOuNTfDZKw6acATFDWZXdhM_E8bAMNWhEuHymcrrYqiyuZto34ExiBlKCA%3D%3D&xkcb=SoDK67M3Fr-q_kzOlZ0IbzkdCdPP&vjs=2",
+    "company": "University of Sheffield",
+    "companyBrandingAttributes": {
+      "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/1f6a210b96b69755af52d444b62f7b93",
+      "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2169d40d4c24bf2bffde835e5d46dce1"
+    },
+    "companyIdEncrypted": "30e0d7438dd0a131",
+    "companyOverviewLink": "/cmp/University-of-Sheffield",
+    "companyOverviewLinkCampaignId": "serp-linkcompanyname-content",
+    "companyRating": 4.4,
+    "companyReviewCount": 256,
+    "companyReviewLink": "/cmp/University-of-Sheffield/reviews",
+    "companyReviewLinkCampaignId": "cmplinktst2",
+    "createDate": 1706202817000,
+    "d2iEnabled": false,
+    "displayTitle": "Administration Assistant",
+    "dradisJob": false,
+    "employerAssistEnabled": false,
+    "employerResponsive": false,
+    "encryptedFccompanyId": "a3e23b90f1996827",
+    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+    "enhancedAttributesModel": {},
+    "enticers": [],
+    "expired": false,
+    "extractTrackingUrls": "",
+    "extractedSalary": {
+      "max": 23144,
+      "min": 22214,
+      "type": "yearly"
+    },
+    "fccompanyId": -1,
+    "featuredCompanyAttributes": {},
+    "featuredEmployer": false,
+    "featuredEmployerCandidate": false,
+    "feedId": 102913,
+    "formattedLocation": "Sheffield",
+    "formattedRelativeTime": "4 days ago",
+    "hideMetaData": false,
+    "highQualityMarketplace": {
+      "match": false
+    },
+    "highVolumeHiringModel": {
+      "highVolumeHiring": false
+    },
+    "hiringEventJob": false,
+    "homepageJobFeedSectionId": "0",
+    "indeedApplyEnabled": false,
+    "indeedApplyable": false,
+    "isJobVisited": false,
+    "isMobileThirdPartyApplyable": false,
+    "isNoResumeJob": false,
+    "isSubsidiaryJob": false,
+    "jobCardRequirementsModel": {
+      "additionalRequirementsCount": 0,
+      "jobTagRequirements": [],
+      "requirementsHeaderShown": false
+    },
+    "jobLocationCity": "Sheffield",
+    "jobLocationState": "ENG",
+    "jobTypes": [],
+    "jobkey": "8278cd7d842ef011",
+    "jsiEnabled": false,
+    "link": "/rc/clk?jk=8278cd7d842ef011&bb=CcJ391SNJQpTN1oew-GA4Xjc9XMdhya-d4p-o3-_820NqAbYhPd697FgitnneOuNht4-xD-sPChD2z9kg8uo2PBb8vYVVVi_3HEGW6LaHkI%3D&xkcb=SoDK67M3Fr-q_kzOlZ0IbzkdCdPP&fccid=30e0d7438dd0a131&vjs=3",
+    "locationCount": 1,
+    "loceJobTagModel": {},
+    "mobtk": "1hlbr990jk7pn800",
+    "moreLinks": {
+      "companyName": "University of Sheffield",
+      "companyText": "University of Sheffield jobs",
+      "locationName": "Sheffield",
+      "qnaUrl": "/cmp/University-of-Sheffield/faq",
+      "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=8278cd7d842ef011&jcid=30e0d7438dd0a131",
+      "resultNumber": 3,
+      "salaryLocationName": "Sheffield",
+      "salaryNoFollowLink": false,
+      "salaryUrl": "/career/administrative-assistant/salaries/Sheffield",
+      "salaryUrlParams": "?campaignid=serp-more&fromjk=8278cd7d842ef011&from=serp-more",
+      "shortLocationName": "Sheffield",
+      "showAcmeLink": true,
+      "showAcmeQnaLink": true,
+      "showViewAllCompanyAndLocationLinks": false,
+      "showViewAllCompanyLink": true,
+      "showViewAllLocationLink": false,
+      "showViewAllNormalizedTitleLink": true,
+      "viewAllCompanyLinkText": "University of Sheffield jobs",
+      "viewAllCompanyUrl": "/q-university-of-sheffield-jobs.html",
+      "viewAllLocationUrl": "/l-sheffield-jobs.html",
+      "viewAllNormalizedTitleLink": "/q-administrative-assistant-l-sheffield-jobs.html",
+      "viewAllNormalizedTitleLinkText": "Administrative Assistant jobs in Sheffield",
+      "visible": false
+    },
+    "moreLocUrl": "/jobs?q=&l=Sheffield%2C+South+Yorkshire&jtid=6db490c464fe6c1e&jcid=30e0d7438dd0a131&grp=tcl",
+    "mouseDownHandlerOption": {
+      "adId": "",
+      "advn": "",
+      "extractTrackingUrls": [],
+      "from": "vjs",
+      "jobKey": "8278cd7d842ef011",
+      "link": "/rc/clk?jk=8278cd7d842ef011&bb=CcJ391SNJQpTN1oew-GA4Xjc9XMdhya-d4p-o3-_820NqAbYhPd697FgitnneOuNht4-xD-sPChD2z9kg8uo2PBb8vYVVVi_3HEGW6LaHkI%3D&xkcb=SoDK67M3Fr-q_kzOlZ0IbzkdCdPP&fccid=30e0d7438dd0a131&vjs=3",
+      "tk": "1hlbr990jk7pn800"
+    },
+    "newJob": true,
+    "normTitle": "Administrative Assistant",
+    "openInterviewsInterviewsOnTheSpot": false,
+    "openInterviewsJob": false,
+    "openInterviewsOffersOnTheSpot": false,
+    "openInterviewsPhoneJob": false,
+    "organicApplyStartCount": 102,
+    "organicBlob": "CcJ391SNJQpTN1oew-GA4Xjc9XMdhya-d4p-o3-_820NqAbYhPd697FgitnneOuNht4-xD-sPChD2z9kg8uo2PBb8vYVVVi_3HEGW6LaHkI=",
+    "overrideIndeedApplyText": true,
+    "preciseLocationModel": {
+      "obfuscateLocation": false,
+      "overrideJCMPreciseLocationModel": true
+    },
+    "pubDate": 1706162400000,
+    "rankingScoresModel": {
+      "bid": 0,
+      "eApply": 0.010106397,
+      "eQualified": 0
+    },
+    "redirectToThirdPartySite": false,
+    "remoteLocation": false,
+    "resumeMatch": false,
+    "salarySnippet": {
+      "currency": "GBP",
+      "salaryTextFormatted": false,
+      "source": "EXTRACTION",
+      "text": "£22,214 - £23,144 a year"
+    },
+    "saved": false,
+    "savedApplication": false,
+    "screenerQuestionsURL": "",
+    "searchUID": "1hlbr990jk7pn800",
+    "showAttainabilityBadge": false,
+    "showCommutePromo": false,
+    "showEarlyApply": false,
+    "showJobType": false,
+    "showRelativeDate": true,
+    "showSponsoredLabel": false,
+    "showStrongerAppliedLabel": false,
+    "smartFillEnabled": false,
+    "smbD2iEnabled": false,
+    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li>We are looking for an enthusiastic individual to provide a welcoming customer focused, professional reception service, dealing with a range of enquiries from…</li>\n</ul>",
+    "sourceId": 76443,
+    "sponsored": false,
+    "taxoAttributes": [],
+    "taxoAttributesDisplayLimit": 4,
+    "taxoLogAttributes": [],
+    "taxonomyAttributes": [
+      {
+        "attributes": [
+          {
+            "label": "Full-time",
+            "suid": "CF3CP"
+          }
+        ],
+        "label": "job-types"
+      },
+      {
+        "attributes": [],
+        "label": "shifts"
+      },
+      {
+        "attributes": [],
+        "label": "remote"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Company pension",
+            "suid": "KBRYN"
+          }
+        ],
+        "label": "benefits"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Full-time",
+            "suid": "CF3CP"
+          }
+        ],
+        "label": "job-types-cc"
+      },
+      {
+        "attributes": [],
+        "label": "schedules"
+      }
+    ],
+    "thirdPartyApplyUrl": "http://uk.indeed.com//applystart?jk=8278cd7d842ef011&from=jobsearch&mvj=0&jobsearchTk=1hlbr990jk7pn800&spon=0&adid=0&xkcb=SoDK67M3Fr-q_kzOlZ0IbzkdCdPP&sjdu=V9H8KeZcoY7vulh4pv6kZU3lu-vZiXzGVm5Qq7XKG3_RAKt-GJa1TlanU_SiAAR-se1-mqhNhH47P-tpdIL8ck9_oaJ_oAzvsJEgXq_RVuRkWbmhk4Nco_9HsyN-09pDVsSoVBUOdjtc83wk_TY0oXJIv1R4iAeLGZj4lwDg4ImKGpzphkVPdC1L7v5o6MxvdDTB2XsoLVShFYdRH4uHIh430ZUhpy0zCtorPnbBFyNy_Bp3tsAjUA5NwGYErHj-OZRmWh0hEXEjnUyzzuOk0w&vjfrom=vjs&astse=35ae152a45bd7cfa&assa=3023",
+    "tier": {
+      "matchedPreferences": {
+        "longMatchedPreferences": [],
+        "stringMatchedPreferences": []
+      },
+      "type": "DEFAULT"
+    },
+    "title": "Administration Assistant",
+    "translatedAttributes": [],
+    "translatedCmiJobTags": [],
+    "truncatedCompany": "University of Sheffield",
+    "urgentlyHiring": false,
+    "viewJobLink": "/viewjob?jk=8278cd7d842ef011&from=vjs&tk=1hlbr990jk7pn800&viewtype=embedded&xkcb=SoDK67M3Fr-q_kzOlZ0IbzkdCdPP&continueUrl=%2Fjobs%3Fq%3D%26vjk%3De525df493a1ef7f8%26l%3DSheffield%252C%2BSouth%2BYorkshire",
+    "vjFeaturedEmployerCandidate": false
+  },
+  {
+    "appliedOrGreater": false,
+    "applyCount": 0,
+    "blobKey": "SoBE67M3Fr-q_kzOlZ0PbzkdCdPP",
+    "clickLoggingUrl": "/rc/clk?jk=66304a84ebf3b3b7&from=jasx&tk=1hlbr990jk7pn800&bb=CcJ391SNJQpTN1oew-GA4a1jNIwHxy01i9rlIx0u5sKGBxxwgswPLgxHp5hZKGp2C5_JX3E4ykAT4qdBH-4N50GDk7xSgUrllRnXutWDQWMjaoe8IA3lNA%3D%3D&xkcb=SoBE67M3Fr-q_kzOlZ0PbzkdCdPP&vjs=2",
+    "company": "Sheffield City Council",
+    "companyBrandingAttributes": {
+      "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/39cc0e066780c2d032bf135f0c84c6a3",
+      "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f16312f69c225c6952302885451c3efc"
+    },
+    "companyIdEncrypted": "77ce54e70d73dc41",
+    "companyOverviewLink": "/cmp/Sheffield-City-Council-1",
+    "companyOverviewLinkCampaignId": "serp-linkcompanyname-content",
+    "companyRating": 3.7,
+    "companyReviewCount": 133,
+    "companyReviewLink": "/cmp/Sheffield-City-Council-1/reviews",
+    "companyReviewLinkCampaignId": "cmplinktst2",
+    "createDate": 1705437937000,
+    "d2iEnabled": false,
+    "displayTitle": "Customer Service Advisor",
+    "dradisJob": false,
+    "employerAssistEnabled": false,
+    "employerResponsive": false,
+    "encryptedFccompanyId": "2b2767fe3e399403",
+    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+    "enhancedAttributesModel": {},
+    "enticers": [],
+    "expired": false,
+    "extractTrackingUrls": "",
+    "extractedSalary": {
+      "max": 23893,
+      "min": 23500,
+      "type": "yearly"
+    },
+    "fccompanyId": -1,
+    "featuredCompanyAttributes": {},
+    "featuredEmployer": false,
+    "featuredEmployerCandidate": false,
+    "feedId": 43717,
+    "formattedLocation": "Sheffield",
+    "formattedRelativeTime": "13 days ago",
+    "hideMetaData": false,
+    "highQualityMarketplace": {
+      "match": false
+    },
+    "highVolumeHiringModel": {
+      "highVolumeHiring": false
+    },
+    "hiringEventJob": false,
+    "homepageJobFeedSectionId": "0",
+    "indeedApplyEnabled": false,
+    "indeedApplyable": false,
+    "isJobVisited": false,
+    "isMobileThirdPartyApplyable": false,
+    "isNoResumeJob": false,
+    "isSubsidiaryJob": false,
+    "jobCardRequirementsModel": {
+      "additionalRequirementsCount": 0,
+      "jobTagRequirements": [],
+      "requirementsHeaderShown": false
+    },
+    "jobLocationCity": "Sheffield",
+    "jobLocationState": "ENG",
+    "jobTypes": [
+      "Temporary"
+    ],
+    "jobkey": "66304a84ebf3b3b7",
+    "jsiEnabled": false,
+    "link": "/rc/clk?jk=66304a84ebf3b3b7&bb=CcJ391SNJQpTN1oew-GA4a1jNIwHxy01i9rlIx0u5sKGBxxwgswPLgxHp5hZKGp2JAbwnI29q-_ly5sFxJ0Q8LUcUYcRvfpQOcWc3eWnVII%3D&xkcb=SoBE67M3Fr-q_kzOlZ0PbzkdCdPP&fccid=329871b8b066aab1&vjs=3",
+    "locationCount": 1,
+    "mobtk": "1hlbr990jk7pn800",
+    "moreLinks": {
+      "companyName": "Sheffield City Council",
+      "companyText": "Sheffield City Council jobs",
+      "locationName": "Sheffield",
+      "qnaUrl": "/cmp/Sheffield-City-Council-1/faq",
+      "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=66304a84ebf3b3b7&jcid=77ce54e70d73dc41",
+      "resultNumber": 4,
+      "salaryLocationName": "Sheffield",
+      "salaryNoFollowLink": false,
+      "salaryUrl": "/career/customer-service-representative/salaries/Sheffield",
+      "salaryUrlParams": "?campaignid=serp-more&fromjk=66304a84ebf3b3b7&from=serp-more",
+      "shortLocationName": "Sheffield",
+      "showAcmeLink": true,
+      "showAcmeQnaLink": true,
+      "showViewAllCompanyAndLocationLinks": false,
+      "showViewAllCompanyLink": true,
+      "showViewAllLocationLink": false,
+      "showViewAllNormalizedTitleLink": true,
+      "viewAllCompanyLinkText": "Sheffield City Council jobs",
+      "viewAllCompanyUrl": "/q-sheffield-city-council-jobs.html",
+      "viewAllLocationUrl": "/l-sheffield-jobs.html",
+      "viewAllNormalizedTitleLink": "/q-customer-service-representative-l-sheffield-jobs.html",
+      "viewAllNormalizedTitleLinkText": "Customer Service Representative jobs in Sheffield",
+      "visible": false
+    },
+    "moreLocUrl": "/jobs?q=&l=Sheffield%2C+South+Yorkshire&jtid=3026cdc7e61c640c&jcid=77ce54e70d73dc41&grp=tcl",
+    "mouseDownHandlerOption": {
+      "adId": "",
+      "advn": "",
+      "extractTrackingUrls": [],
+      "from": "vjs",
+      "jobKey": "66304a84ebf3b3b7",
+      "link": "/rc/clk?jk=66304a84ebf3b3b7&bb=CcJ391SNJQpTN1oew-GA4a1jNIwHxy01i9rlIx0u5sKGBxxwgswPLgxHp5hZKGp2JAbwnI29q-_ly5sFxJ0Q8LUcUYcRvfpQOcWc3eWnVII%3D&xkcb=SoBE67M3Fr-q_kzOlZ0PbzkdCdPP&fccid=329871b8b066aab1&vjs=3",
+      "tk": "1hlbr990jk7pn800"
+    },
+    "newJob": false,
+    "normTitle": "Customer Service Representative",
+    "openInterviewsInterviewsOnTheSpot": false,
+    "openInterviewsJob": false,
+    "openInterviewsOffersOnTheSpot": false,
+    "openInterviewsPhoneJob": false,
+    "organicApplyStartCount": 288,
+    "organicBlob": "CcJ391SNJQpTN1oew-GA4a1jNIwHxy01i9rlIx0u5sKGBxxwgswPLgxHp5hZKGp2JAbwnI29q-_ly5sFxJ0Q8LUcUYcRvfpQOcWc3eWnVII=",
+    "overrideIndeedApplyText": true,
+    "preciseLocationModel": {
+      "obfuscateLocation": false,
+      "overrideJCMPreciseLocationModel": true
+    },
+    "pubDate": 1705384800000,
+    "rankingScoresModel": {
+      "bid": 0,
+      "eApply": 0.009695322,
+      "eQualified": 0
+    },
+    "redirectToThirdPartySite": false,
+    "remoteLocation": false,
+    "remoteWorkModel": {
+      "inlineText": true,
+      "type": "REMOTE_HYBRID"
+    },
+    "resumeMatch": false,
+    "salarySnippet": {
+      "currency": "GBP",
+      "salaryTextFormatted": false,
+      "source": "EXTRACTION",
+      "text": "£23,500 - £23,893 a year"
+    },
+    "saved": false,
+    "savedApplication": false,
+    "screenerQuestionsURL": "",
+    "searchUID": "1hlbr990jk7pn800",
+    "showAttainabilityBadge": false,
+    "showCommutePromo": false,
+    "showEarlyApply": false,
+    "showJobType": false,
+    "showRelativeDate": true,
+    "showSponsoredLabel": false,
+    "showStrongerAppliedLabel": false,
+    "smartFillEnabled": false,
+    "smbD2iEnabled": false,
+    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li>The position is temporary until 31 December 2024, the council has a generous holiday entitlement, and the starting salary is £23,500 per year for a full-time…</li>\n</ul>",
+    "sourceId": 79722,
+    "sponsored": false,
+    "taxoAttributes": [
+      "Disability confident",
+      "Hybrid remote"
+    ],
+    "taxoAttributesDisplayLimit": 4,
+    "taxoLogAttributes": [
+      "EUKSS",
+      "PAXZC"
+    ],
+    "taxonomyAttributes": [
+      {
+        "attributes": [],
+        "label": "job-types"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Rotating shift",
+            "suid": "JCVZE"
+          }
+        ],
+        "label": "shifts"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Hybrid remote",
+            "suid": "PAXZC"
+          }
+        ],
+        "label": "remote"
+      },
+      {
+        "attributes": [],
+        "label": "benefits"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Temporary contract",
+            "suid": "CJWTS"
+          }
+        ],
+        "label": "job-types-cc"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Rotating shift",
+            "suid": "JCVZE"
+          },
+          {
+            "label": "Monday to Friday",
+            "suid": "SAP7A"
+          }
+        ],
+        "label": "schedules"
+      }
+    ],
+    "thirdPartyApplyUrl": "http://uk.indeed.com//applystart?jk=66304a84ebf3b3b7&from=jobsearch&mvj=0&jobsearchTk=1hlbr990jk7pn800&spon=0&adid=0&xkcb=SoBE67M3Fr-q_kzOlZ0PbzkdCdPP&sjdu=mbpwbCeTf5XOOzl6Kkm0tyxKMeFAbHwSHwwDLc6HtQPRAKt-GJa1TlanU_SiAAR-9tL06oPDbTX0nDYHKzZn-YIQYN9GjWBfmgpmI7ffyibJB5Qig44VJrCs50TEi8067g40WMQKiv750TV_NGHwrVGB0kcfFStf9553pFxc1a8qp4WVBUHaUXUtRNcdGhEqRAjVfnfmWby1z8j3lNvWXVkKVOSDOnD6e0Gcxde9D7ez8MSRUbpwyzykFQQ5pWUqigBZ2wEtcUuSZ1Q6kprl5w&vjfrom=vjs&astse=35ae152a45bd7cfa&assa=3023",
+    "tier": {
+      "matchedPreferences": {
+        "longMatchedPreferences": [],
+        "stringMatchedPreferences": []
+      },
+      "type": "DEFAULT"
+    },
+    "title": "Customer Service Advisor",
+    "translatedAttributes": [],
+    "translatedCmiJobTags": [
+      "英語"
+    ],
+    "truncatedCompany": "Sheffield City Council",
+    "urgentlyHiring": false,
+    "viewJobLink": "/viewjob?jk=66304a84ebf3b3b7&from=vjs&tk=1hlbr990jk7pn800&viewtype=embedded&xkcb=SoBE67M3Fr-q_kzOlZ0PbzkdCdPP&continueUrl=%2Fjobs%3Fq%3D%26vjk%3De525df493a1ef7f8%26l%3DSheffield%252C%2BSouth%2BYorkshire",
+    "vjFeaturedEmployerCandidate": false
+  },
+  {
+    "appliedOrGreater": false,
+    "applyCount": 0,
+    "blobKey": "SoDw67M3Fr-q_kzOlZ0ObzkdCdPP",
+    "clickLoggingUrl": "/rc/clk?jk=5611c1e26eb59528&from=jasx&tk=1hlbr990jk7pn800&bb=CcJ391SNJQpTN1oew-GA4a0DGb59c7YpLcYkrKmrcxS67tCvazZRTgBPDdsXu4ujYftdo7iKtbAh1BtcvhNkDhLKezrMDWhihGCXb7LCFNtQvMj6O1KTCg%3D%3D&xkcb=SoDw67M3Fr-q_kzOlZ0ObzkdCdPP&vjs=2",
+    "company": "University of Sheffield",
+    "companyBrandingAttributes": {
+      "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/1f6a210b96b69755af52d444b62f7b93",
+      "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2169d40d4c24bf2bffde835e5d46dce1"
+    },
+    "companyIdEncrypted": "30e0d7438dd0a131",
+    "companyOverviewLink": "/cmp/University-of-Sheffield",
+    "companyOverviewLinkCampaignId": "serp-linkcompanyname-content",
+    "companyRating": 4.4,
+    "companyReviewCount": 256,
+    "companyReviewLink": "/cmp/University-of-Sheffield/reviews",
+    "companyReviewLinkCampaignId": "cmplinktst2",
+    "createDate": 1706289226000,
+    "d2iEnabled": false,
+    "displayTitle": "Helpdesk Operator",
+    "dradisJob": false,
+    "employerAssistEnabled": false,
+    "employerResponsive": false,
+    "encryptedFccompanyId": "a3e23b90f1996827",
+    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+    "enhancedAttributesModel": {},
+    "enticers": [],
+    "expired": false,
+    "extractTrackingUrls": "",
+    "extractedSalary": {
+      "max": 25138,
+      "min": 23700,
+      "type": "yearly"
+    },
+    "fccompanyId": -1,
+    "featuredCompanyAttributes": {},
+    "featuredEmployer": false,
+    "featuredEmployerCandidate": false,
+    "feedId": 102913,
+    "formattedLocation": "Sheffield",
+    "formattedRelativeTime": "3 days ago",
+    "hideMetaData": false,
+    "highQualityMarketplace": {
+      "match": false
+    },
+    "highVolumeHiringModel": {
+      "highVolumeHiring": false
+    },
+    "hiringEventJob": false,
+    "homepageJobFeedSectionId": "0",
+    "indeedApplyEnabled": false,
+    "indeedApplyable": false,
+    "isJobVisited": false,
+    "isMobileThirdPartyApplyable": false,
+    "isNoResumeJob": false,
+    "isSubsidiaryJob": false,
+    "jobCardRequirementsModel": {
+      "additionalRequirementsCount": 0,
+      "jobTagRequirements": [],
+      "requirementsHeaderShown": false
+    },
+    "jobLocationCity": "Sheffield",
+    "jobLocationState": "ENG",
+    "jobTypes": [],
+    "jobkey": "5611c1e26eb59528",
+    "jsiEnabled": false,
+    "link": "/rc/clk?jk=5611c1e26eb59528&bb=CcJ391SNJQpTN1oew-GA4a0DGb59c7YpLcYkrKmrcxS67tCvazZRTgBPDdsXu4ujTGfpR2x8wZnI-vo5_Bu_4MsMbRyexHbvwhz26tO2DDE%3D&xkcb=SoDw67M3Fr-q_kzOlZ0ObzkdCdPP&fccid=30e0d7438dd0a131&vjs=3",
+    "locationCount": 1,
+    "loceJobTagModel": {},
+    "mobtk": "1hlbr990jk7pn800",
+    "moreLinks": {
+      "companyName": "University of Sheffield",
+      "companyText": "University of Sheffield jobs",
+      "locationName": "Sheffield",
+      "qnaUrl": "/cmp/University-of-Sheffield/faq",
+      "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=5611c1e26eb59528&jcid=30e0d7438dd0a131",
+      "resultNumber": 5,
+      "salaryLocationName": "Sheffield",
+      "salaryNoFollowLink": false,
+      "salaryUrl": "/career/helpdesk/salaries/Sheffield",
+      "salaryUrlParams": "?campaignid=serp-more&fromjk=5611c1e26eb59528&from=serp-more",
+      "shortLocationName": "Sheffield",
+      "showAcmeLink": true,
+      "showAcmeQnaLink": true,
+      "showViewAllCompanyAndLocationLinks": false,
+      "showViewAllCompanyLink": true,
+      "showViewAllLocationLink": false,
+      "showViewAllNormalizedTitleLink": true,
+      "viewAllCompanyLinkText": "University of Sheffield jobs",
+      "viewAllCompanyUrl": "/q-university-of-sheffield-jobs.html",
+      "viewAllLocationUrl": "/l-sheffield-jobs.html",
+      "viewAllNormalizedTitleLink": "/q-helpdesk-l-sheffield-jobs.html",
+      "viewAllNormalizedTitleLinkText": "Helpdesk jobs in Sheffield",
+      "visible": false
+    },
+    "moreLocUrl": "/jobs?q=&l=Sheffield%2C+South+Yorkshire&jtid=6a2c05a5548d05bd&jcid=30e0d7438dd0a131&grp=tcl",
+    "mouseDownHandlerOption": {
+      "adId": "",
+      "advn": "",
+      "extractTrackingUrls": [],
+      "from": "vjs",
+      "jobKey": "5611c1e26eb59528",
+      "link": "/rc/clk?jk=5611c1e26eb59528&bb=CcJ391SNJQpTN1oew-GA4a0DGb59c7YpLcYkrKmrcxS67tCvazZRTgBPDdsXu4ujTGfpR2x8wZnI-vo5_Bu_4MsMbRyexHbvwhz26tO2DDE%3D&xkcb=SoDw67M3Fr-q_kzOlZ0ObzkdCdPP&fccid=30e0d7438dd0a131&vjs=3",
+      "tk": "1hlbr990jk7pn800"
+    },
+    "newJob": true,
+    "normTitle": "Helpdesk",
+    "openInterviewsInterviewsOnTheSpot": false,
+    "openInterviewsJob": false,
+    "openInterviewsOffersOnTheSpot": false,
+    "openInterviewsPhoneJob": false,
+    "organicApplyStartCount": 64,
+    "organicBlob": "CcJ391SNJQpTN1oew-GA4a0DGb59c7YpLcYkrKmrcxS67tCvazZRTgBPDdsXu4ujTGfpR2x8wZnI-vo5_Bu_4MsMbRyexHbvwhz26tO2DDE=",
+    "overrideIndeedApplyText": true,
+    "preciseLocationModel": {
+      "obfuscateLocation": false,
+      "overrideJCMPreciseLocationModel": true
+    },
+    "pubDate": 1706248800000,
+    "rankingScoresModel": {
+      "bid": 0,
+      "eApply": 0.0095954975,
+      "eQualified": 0
+    },
+    "redirectToThirdPartySite": false,
+    "remoteLocation": false,
+    "resumeMatch": false,
+    "salarySnippet": {
+      "currency": "GBP",
+      "salaryTextFormatted": false,
+      "source": "EXTRACTION",
+      "text": "£23,700 - £25,138 a year"
+    },
+    "saved": false,
+    "savedApplication": false,
+    "screenerQuestionsURL": "",
+    "searchUID": "1hlbr990jk7pn800",
+    "showAttainabilityBadge": false,
+    "showCommutePromo": false,
+    "showEarlyApply": false,
+    "showJobType": false,
+    "showRelativeDate": true,
+    "showSponsoredLabel": false,
+    "showStrongerAppliedLabel": false,
+    "smartFillEnabled": false,
+    "smbD2iEnabled": false,
+    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li>The main duties of this post include handling enquiries, inputting incoming jobs on the system and maintaining the Planon Facilities Management Database.</li>\n</ul>",
+    "sourceId": 76443,
+    "sponsored": false,
+    "taxoAttributes": [],
+    "taxoAttributesDisplayLimit": 4,
+    "taxoLogAttributes": [],
+    "taxonomyAttributes": [
+      {
+        "attributes": [
+          {
+            "label": "Full-time",
+            "suid": "CF3CP"
+          }
+        ],
+        "label": "job-types"
+      },
+      {
+        "attributes": [],
+        "label": "shifts"
+      },
+      {
+        "attributes": [],
+        "label": "remote"
+      },
+      {
+        "attributes": [],
+        "label": "benefits"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Full-time",
+            "suid": "CF3CP"
+          }
+        ],
+        "label": "job-types-cc"
+      },
+      {
+        "attributes": [],
+        "label": "schedules"
+      }
+    ],
+    "thirdPartyApplyUrl": "http://uk.indeed.com//applystart?jk=5611c1e26eb59528&from=jobsearch&mvj=0&jobsearchTk=1hlbr990jk7pn800&spon=0&adid=0&xkcb=SoDw67M3Fr-q_kzOlZ0ObzkdCdPP&sjdu=CXa7f71nUvVHcFTSKLOEaURJRoDLhoQ2sQkIRK6KpzrRAKt-GJa1TlanU_SiAAR-aiMWtjg4Fp9zMl4m1L2PlHZan4NCS2Vb8h4Ci9U7rF5ylZKFNhYN6OJIhMipYB7IFWxzPAcZKupJx2AksDfEMbPSRUfOv9gVm5TI7rgFS62JVt_TvDMxLnktircJ6EOn_atF7IQRTRiLmxdzwDFxNs3zkNG5fFROIqiE4AWbQVJy_Bp3tsAjUA5NwGYErHj-OZRmWh0hEXEjnUyzzuOk0w&vjfrom=vjs&astse=f8c599d583b9448a&assa=3024",
+    "tier": {
+      "matchedPreferences": {
+        "longMatchedPreferences": [],
+        "stringMatchedPreferences": []
+      },
+      "type": "DEFAULT"
+    },
+    "title": "Helpdesk Operator",
+    "translatedAttributes": [],
+    "translatedCmiJobTags": [],
+    "truncatedCompany": "University of Sheffield",
+    "urgentlyHiring": false,
+    "viewJobLink": "/viewjob?jk=5611c1e26eb59528&from=vjs&tk=1hlbr990jk7pn800&viewtype=embedded&xkcb=SoDw67M3Fr-q_kzOlZ0ObzkdCdPP&continueUrl=%2Fjobs%3Fq%3D%26vjk%3De525df493a1ef7f8%26l%3DSheffield%252C%2BSouth%2BYorkshire",
+    "vjFeaturedEmployerCandidate": false
+  },
+  {
+    "appliedOrGreater": false,
+    "applyCount": -1,
+    "blobKey": "SoBt67M3Fr-q_kzOlZ0NbzkdCdPP",
+    "clickLoggingUrl": "/rc/clk?jk=1ff0df6a11de0914&from=jasx&tk=1hlbr990jk7pn800&bb=CcJ391SNJQpTN1oew-GA4YVFSnXIRFPsO3gEZEA23SWhcpYTtCXDD7T5Vpu8_bSvlt0KpvLCQr6yqYdAX3jaLMYGq0NQsi0JiCKxXk6zYPjfS6Ry7ESxtA%3D%3D&xkcb=SoBt67M3Fr-q_kzOlZ0NbzkdCdPP&vjs=2",
+    "company": "Lloyds Banking Group",
+    "companyBrandingAttributes": {
+      "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/55186d53af4d678a809a72dba9bb7cb9",
+      "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7c13f171350e9398183d8385f4ae963d"
+    },
+    "companyIdEncrypted": "6423597f1cdb7b53",
+    "companyOverviewLink": "/cmp/Lloyds-Banking-Group",
+    "companyOverviewLinkCampaignId": "serp-linkcompanyname-content",
+    "companyRating": 3.7,
+    "companyReviewCount": 2488,
+    "companyReviewLink": "/cmp/Lloyds-Banking-Group/reviews",
+    "companyReviewLinkCampaignId": "cmplinktst2",
+    "createDate": 1706558129000,
+    "d2iEnabled": false,
+    "displayTitle": "Halifax Bank - Customer Adviser - Doncaster",
+    "dradisJob": false,
+    "employerAssistEnabled": false,
+    "employerResponsive": false,
+    "encryptedFccompanyId": "378e29b44b285a27",
+    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+    "enhancedAttributesModel": {},
+    "enticers": [],
+    "expired": false,
+    "extractTrackingUrls": "",
+    "extractedSalary": {
+      "max": 22110,
+      "min": 22000,
+      "type": "yearly"
+    },
+    "fccompanyId": -1,
+    "featuredCompanyAttributes": {},
+    "featuredEmployer": false,
+    "featuredEmployerCandidate": false,
+    "feedId": 26391,
+    "formattedLocation": "Doncaster",
+    "formattedRelativeTime": "Just posted",
+    "hideMetaData": false,
+    "highQualityMarketplace": {
+      "match": false
+    },
+    "highVolumeHiringModel": {
+      "highVolumeHiring": false
+    },
+    "hiringEventJob": false,
+    "homepageJobFeedSectionId": "0",
+    "indeedApplyEnabled": false,
+    "indeedApplyable": false,
+    "isJobVisited": false,
+    "isMobileThirdPartyApplyable": true,
+    "isNoResumeJob": false,
+    "isSubsidiaryJob": false,
+    "jobCardRequirementsModel": {
+      "additionalRequirementsCount": 0,
+      "jobTagRequirements": [],
+      "requirementsHeaderShown": false
+    },
+    "jobLocationCity": "Doncaster",
+    "jobLocationState": "ENG",
+    "jobTypes": [
+      "Part-time"
+    ],
+    "jobkey": "1ff0df6a11de0914",
+    "jsiEnabled": false,
+    "link": "/rc/clk?jk=1ff0df6a11de0914&bb=CcJ391SNJQpTN1oew-GA4YVFSnXIRFPsO3gEZEA23SWhcpYTtCXDD7T5Vpu8_bSvhI2luvRjC81vV1uABXFTq4MxcvsMbS8iMKNhFoEPiDI%3D&xkcb=SoBt67M3Fr-q_kzOlZ0NbzkdCdPP&fccid=6423597f1cdb7b53&vjs=3",
+    "locationCount": 1,
+    "mobtk": "1hlbr990jk7pn800",
+    "moreLinks": {
+      "companyName": "Lloyds Banking Group",
+      "companyText": "Lloyds Banking Group jobs",
+      "locationName": "Doncaster",
+      "qnaUrl": "/cmp/Lloyds-Banking-Group/faq",
+      "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=1ff0df6a11de0914&jcid=6423597f1cdb7b53",
+      "resultNumber": 6,
+      "salaryLocationName": "Doncaster",
+      "salaryNoFollowLink": false,
+      "salaryUrl": "/career/banking-advisor/salaries/Doncaster",
+      "salaryUrlParams": "?campaignid=serp-more&fromjk=1ff0df6a11de0914&from=serp-more",
+      "shortLocationName": "Doncaster",
+      "showAcmeLink": true,
+      "showAcmeQnaLink": true,
+      "showViewAllCompanyAndLocationLinks": true,
+      "showViewAllCompanyLink": true,
+      "showViewAllLocationLink": true,
+      "showViewAllNormalizedTitleLink": true,
+      "viewAllCompanyLinkText": "Lloyds Banking Group jobs",
+      "viewAllCompanyUrl": "/q-lloyds-banking-group-jobs.html",
+      "viewAllLocationUrl": "/l-doncaster-jobs.html",
+      "viewAllNormalizedTitleLink": "/q-banking-advisor-l-doncaster-jobs.html",
+      "viewAllNormalizedTitleLinkText": "Banking Advisor jobs in Doncaster",
+      "visible": false
+    },
+    "moreLocUrl": "/jobs?q=&l=Sheffield%2C+South+Yorkshire&jtid=a43a4cc7a7034900&jcid=6423597f1cdb7b53&grp=tcl",
+    "mouseDownHandlerOption": {
+      "adId": "",
+      "advn": "",
+      "extractTrackingUrls": [],
+      "from": "vjs",
+      "jobKey": "1ff0df6a11de0914",
+      "link": "/rc/clk?jk=1ff0df6a11de0914&bb=CcJ391SNJQpTN1oew-GA4YVFSnXIRFPsO3gEZEA23SWhcpYTtCXDD7T5Vpu8_bSvhI2luvRjC81vV1uABXFTq4MxcvsMbS8iMKNhFoEPiDI%3D&xkcb=SoBt67M3Fr-q_kzOlZ0NbzkdCdPP&fccid=6423597f1cdb7b53&vjs=3",
+      "tk": "1hlbr990jk7pn800"
+    },
+    "newJob": true,
+    "normTitle": "Banking Advisor",
+    "openInterviewsInterviewsOnTheSpot": false,
+    "openInterviewsJob": false,
+    "openInterviewsOffersOnTheSpot": false,
+    "openInterviewsPhoneJob": false,
+    "organicApplyStartCount": 0,
+    "organicBlob": "CcJ391SNJQpTN1oew-GA4YVFSnXIRFPsO3gEZEA23SWhcpYTtCXDD7T5Vpu8_bSvhI2luvRjC81vV1uABXFTq4MxcvsMbS8iMKNhFoEPiDI=",
+    "overrideIndeedApplyText": true,
+    "preciseLocationModel": {
+      "obfuscateLocation": false,
+      "overrideJCMPreciseLocationModel": true
+    },
+    "pubDate": 1706508000000,
+    "rankingScoresModel": {
+      "bid": 0,
+      "eApply": 0.009303973,
+      "eQualified": 0
+    },
+    "redirectToThirdPartySite": false,
+    "remoteLocation": false,
+    "resumeMatch": false,
+    "salarySnippet": {
+      "currency": "GBP",
+      "salaryTextFormatted": false,
+      "source": "EXTRACTION",
+      "text": "£22,000 - £22,110 a year"
+    },
+    "saved": false,
+    "savedApplication": false,
+    "screenerQuestionsURL": "",
+    "searchUID": "1hlbr990jk7pn800",
+    "showAttainabilityBadge": false,
+    "showCommutePromo": false,
+    "showEarlyApply": false,
+    "showJobType": false,
+    "showRelativeDate": true,
+    "showSponsoredLabel": false,
+    "showStrongerAppliedLabel": false,
+    "smartFillEnabled": false,
+    "smbD2iEnabled": false,
+    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li>Acting with care and integrity - taking time to resolve queries and giving our customers confidence in the service you're providing.</li>\n</ul>",
+    "sourceId": 46059,
+    "sponsored": false,
+    "taxoAttributes": [
+      "Disability confident"
+    ],
+    "taxoAttributesDisplayLimit": 4,
+    "taxoLogAttributes": [
+      "EUKSS"
+    ],
+    "taxonomyAttributes": [
+      {
+        "attributes": [
+          {
+            "label": "Part-time",
+            "suid": "75GKK"
+          }
+        ],
+        "label": "job-types"
+      },
+      {
+        "attributes": [],
+        "label": "shifts"
+      },
+      {
+        "attributes": [],
+        "label": "remote"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Company pension",
+            "suid": "KBRYN"
+          }
+        ],
+        "label": "benefits"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Part-time",
+            "suid": "75GKK"
+          }
+        ],
+        "label": "job-types-cc"
+      },
+      {
+        "attributes": [],
+        "label": "schedules"
+      }
+    ],
+    "thirdPartyApplyUrl": "http://uk.indeed.com//applystart?jk=1ff0df6a11de0914&from=jobsearch&mvj=0&jobsearchTk=1hlbr990jk7pn800&spon=0&adid=0&xkcb=SoBt67M3Fr-q_kzOlZ0NbzkdCdPP&sjdu=uL5DxZKiW2-7NxW8VK-1waNWMGHExMEEm1tuyPAb0grRAKt-GJa1TlanU_SiAAR-14KvAaqwQWxIvkC_CtZt3N2h5sPBQ0sD5t8JOoMnnGU-F7i18wLiyry09ZaIuhlnsZJ3PnOOOkDxWt1motiMYaHIzyvzk2iLYfun4lRT9hSI1BqUMdFbQ2zj1vZ3Ab_0a6t37GwLhRyweFQ21JeWxS1ffkY3Et3Xws9yTc1VQozdd4a2wxlYqSr3zftXw4MhJ83Upt9hszgGHRDNoeeUKQ&vjfrom=vjs&astse=0af61fc6e8b45076&assa=3025",
+    "tier": {
+      "matchedPreferences": {
+        "longMatchedPreferences": [],
+        "stringMatchedPreferences": []
+      },
+      "type": "DEFAULT"
+    },
+    "title": "Halifax Bank - Customer Adviser - Doncaster",
+    "translatedAttributes": [],
+    "translatedCmiJobTags": [],
+    "truncatedCompany": "Lloyds Banking Group",
+    "urgentlyHiring": false,
+    "viewJobLink": "/viewjob?jk=1ff0df6a11de0914&from=vjs&tk=1hlbr990jk7pn800&viewtype=embedded&xkcb=SoBt67M3Fr-q_kzOlZ0NbzkdCdPP&continueUrl=%2Fjobs%3Fq%3D%26vjk%3De525df493a1ef7f8%26l%3DSheffield%252C%2BSouth%2BYorkshire",
+    "vjFeaturedEmployerCandidate": false
+  },
+  {
+    "appliedOrGreater": false,
+    "applyCount": 0,
+    "blobKey": "SoDZ67M3Fr-q_kzOlZ0MbzkdCdPP",
+    "clickLoggingUrl": "/rc/clk?jk=c3d0d15ff18fb88a&from=jasx&tk=1hlbr990jk7pn800&bb=CcJ391SNJQpTN1oew-GA4ctxikjcTprRIPoKjUrsND8CHka62h4zGentGIKVTYF7JjxN-k3kRfTF0wEk2p-uHMpL5Mc2hECbv3Fns37NzffLD-WAqMN0OQ%3D%3D&xkcb=SoDZ67M3Fr-q_kzOlZ0MbzkdCdPP&vjs=2",
+    "company": "Exemplar Health Care Services Limited",
+    "companyBrandingAttributes": {
+      "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/a7cec63d6deecc60abdf102d35885e2d",
+      "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/baba9d23548ae9c3247a3456779bb85e"
+    },
+    "companyIdEncrypted": "2ee66a89deab0bf1",
+    "companyOverviewLink": "/cmp/Exemplar-Health-Care",
+    "companyOverviewLinkCampaignId": "serp-linkcompanyname-content",
+    "companyRating": 3,
+    "companyReviewCount": 405,
+    "companyReviewLink": "/cmp/Exemplar-Health-Care/reviews",
+    "companyReviewLinkCampaignId": "cmplinktst2",
+    "createDate": 1706543742000,
+    "d2iEnabled": false,
+    "displayTitle": "Receptionist",
+    "dradisJob": false,
+    "employerAssistEnabled": false,
+    "employerResponseTime": 4,
+    "employerResponsive": true,
+    "encryptedFccompanyId": "abc60df031469eb6",
+    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+    "enhancedAttributesModel": {},
+    "enticers": [],
+    "expired": false,
+    "extractTrackingUrls": "",
+    "extractedSalary": {
+      "max": 10.42,
+      "min": 10.42,
+      "type": "hourly"
+    },
+    "fccompanyId": -1,
+    "featuredCompanyAttributes": {},
+    "featuredEmployer": false,
+    "featuredEmployerCandidate": false,
+    "feedId": 91315,
+    "formattedLocation": "Sheffield S4",
+    "formattedRelativeTime": "Today",
+    "hideMetaData": false,
+    "highQualityMarketplace": {
+      "match": false
+    },
+    "highVolumeHiringModel": {
+      "highVolumeHiring": false
+    },
+    "hiringEventJob": false,
+    "homepageJobFeedSectionId": "0",
+    "indeedApplyEnabled": false,
+    "indeedApplyable": false,
+    "isJobVisited": false,
+    "isMobileThirdPartyApplyable": true,
+    "isNoResumeJob": false,
+    "isSubsidiaryJob": false,
+    "jobCardRequirementsModel": {
+      "additionalRequirementsCount": 0,
+      "jobTagRequirements": [],
+      "requirementsHeaderShown": false
+    },
+    "jobLocationCity": "Sheffield",
+    "jobLocationPostal": "S4 8AR",
+    "jobLocationState": "ENG",
+    "jobTypes": [
+      "Part-time",
+      "Permanent"
+    ],
+    "jobkey": "c3d0d15ff18fb88a",
+    "jsiEnabled": false,
+    "link": "/rc/clk?jk=c3d0d15ff18fb88a&bb=CcJ391SNJQpTN1oew-GA4ctxikjcTprRIPoKjUrsND8CHka62h4zGentGIKVTYF7L1GERxY8Sg1kdW_28I7hAWr8ryGoxkfS7NrCeVKwZiU%3D&xkcb=SoDZ67M3Fr-q_kzOlZ0MbzkdCdPP&fccid=8ea54341620ac603&vjs=3",
+    "locationCount": 1,
+    "loceJobTagModel": {},
+    "mobtk": "1hlbr990jk7pn800",
+    "moreLinks": {
+      "companyName": "Exemplar Health Care Services Limited",
+      "companyText": "Exemplar Health Care Services Limited jobs",
+      "locationName": "Sheffield",
+      "qnaUrl": "/cmp/Exemplar-Health-Care/faq",
+      "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=c3d0d15ff18fb88a&jcid=2ee66a89deab0bf1",
+      "resultNumber": 7,
+      "salaryLocationName": "Sheffield",
+      "salaryNoFollowLink": false,
+      "salaryUrl": "/career/receptionist/salaries/Sheffield-S4",
+      "salaryUrlParams": "?campaignid=serp-more&fromjk=c3d0d15ff18fb88a&from=serp-more",
+      "shortLocationName": "Sheffield",
+      "showAcmeLink": true,
+      "showAcmeQnaLink": true,
+      "showViewAllCompanyAndLocationLinks": false,
+      "showViewAllCompanyLink": true,
+      "showViewAllLocationLink": false,
+      "showViewAllNormalizedTitleLink": false,
+      "viewAllCompanyLinkText": "Exemplar Health Care Services Limited jobs",
+      "viewAllCompanyUrl": "/q-exemplar-health-care-services-limited-jobs.html",
+      "viewAllLocationUrl": "/l-sheffield-jobs.html",
+      "visible": false
+    },
+    "moreLocUrl": "/jobs?q=&l=Sheffield%2C+South+Yorkshire&jtid=4fdb4b7a0a689136&jcid=2ee66a89deab0bf1&grp=tcl",
+    "mouseDownHandlerOption": {
+      "adId": "",
+      "advn": "",
+      "extractTrackingUrls": [],
+      "from": "vjs",
+      "jobKey": "c3d0d15ff18fb88a",
+      "link": "/rc/clk?jk=c3d0d15ff18fb88a&bb=CcJ391SNJQpTN1oew-GA4ctxikjcTprRIPoKjUrsND8CHka62h4zGentGIKVTYF7L1GERxY8Sg1kdW_28I7hAWr8ryGoxkfS7NrCeVKwZiU%3D&xkcb=SoDZ67M3Fr-q_kzOlZ0MbzkdCdPP&fccid=8ea54341620ac603&vjs=3",
+      "tk": "1hlbr990jk7pn800"
+    },
+    "newJob": true,
+    "normTitle": "Receptionist",
+    "openInterviewsInterviewsOnTheSpot": false,
+    "openInterviewsJob": false,
+    "openInterviewsOffersOnTheSpot": false,
+    "openInterviewsPhoneJob": false,
+    "organicApplyStartCount": 3,
+    "organicBlob": "CcJ391SNJQpTN1oew-GA4ctxikjcTprRIPoKjUrsND8CHka62h4zGentGIKVTYF7L1GERxY8Sg1kdW_28I7hAWr8ryGoxkfS7NrCeVKwZiU=",
+    "overrideIndeedApplyText": true,
+    "preciseLocationModel": {
+      "obfuscateLocation": false,
+      "overrideJCMPreciseLocationModel": true
+    },
+    "pubDate": 1706508000000,
+    "rankingScoresModel": {
+      "bid": 0,
+      "eApply": 0.008777426,
+      "eQualified": 0
+    },
+    "redirectToThirdPartySite": false,
+    "remoteLocation": false,
+    "resumeMatch": false,
+    "salarySnippet": {
+      "currency": "GBP",
+      "salaryTextFormatted": false,
+      "source": "EXTRACTION",
+      "text": "£10.42 an hour"
+    },
+    "saved": false,
+    "savedApplication": false,
+    "screenerQuestionsURL": "",
+    "searchUID": "1hlbr990jk7pn800",
+    "showAttainabilityBadge": false,
+    "showCommutePromo": false,
+    "showEarlyApply": false,
+    "showJobType": false,
+    "showRelativeDate": true,
+    "showSponsoredLabel": false,
+    "showStrongerAppliedLabel": false,
+    "smartFillEnabled": false,
+    "smbD2iEnabled": false,
+    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li>Maintaining a record of communications received in the home, sole responsibility for monitoring and allocating phone calls to relevant team members, taking…</li>\n</ul>",
+    "sourceId": 1039681,
+    "sponsored": false,
+    "taxoAttributes": [],
+    "taxoAttributesDisplayLimit": 4,
+    "taxoLogAttributes": [],
+    "taxonomyAttributes": [
+      {
+        "attributes": [
+          {
+            "label": "Part-time",
+            "suid": "75GKK"
+          }
+        ],
+        "label": "job-types"
+      },
+      {
+        "attributes": [],
+        "label": "shifts"
+      },
+      {
+        "attributes": [],
+        "label": "remote"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Employee discount",
+            "suid": "SXFZX"
+          }
+        ],
+        "label": "benefits"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Permanent",
+            "suid": "5QWDV"
+          },
+          {
+            "label": "Part-time",
+            "suid": "75GKK"
+          }
+        ],
+        "label": "job-types-cc"
+      },
+      {
+        "attributes": [],
+        "label": "schedules"
+      }
+    ],
+    "thirdPartyApplyUrl": "http://uk.indeed.com//applystart?jk=c3d0d15ff18fb88a&from=jobsearch&mvj=0&jobsearchTk=1hlbr990jk7pn800&spon=0&adid=0&xkcb=SoDZ67M3Fr-q_kzOlZ0MbzkdCdPP&sjdu=hgLv-7c4MNkrAbox-cHJ6Pm6JNJUX-0roV4aGQNK_CbRAKt-GJa1TlanU_SiAAR-ZIqtgOpzzlEyuWptGG9LlXVedbIRLt2UC6uUXpT4Ks_qIswHBqWzqaR-pcckEgvwqFJ4nRb5MAYRCWcmSWf8_SZ9QONtGQK4phU2k3HVFgnMd8QELBzkVFgZAaq0TUGq6CxxlWzoS9-81taUuZjfLD74dqTOEfDtgG3vfGQxlYs7CEOE0dTt3hWM6DVLTeIiXd7MdOaDS88rl2hldGfiJA&vjfrom=vjs&astse=0af61fc6e8b45076&assa=3025",
+    "tier": {
+      "matchedPreferences": {
+        "longMatchedPreferences": [],
+        "stringMatchedPreferences": []
+      },
+      "type": "DEFAULT"
+    },
+    "title": "Receptionist",
+    "translatedAttributes": [],
+    "translatedCmiJobTags": [
+      "PCスキル",
+      "社割あり"
+    ],
+    "truncatedCompany": "Exemplar Health Care Services Limited",
+    "urgentlyHiring": false,
+    "viewJobLink": "/viewjob?jk=c3d0d15ff18fb88a&from=vjs&tk=1hlbr990jk7pn800&viewtype=embedded&xkcb=SoDZ67M3Fr-q_kzOlZ0MbzkdCdPP&continueUrl=%2Fjobs%3Fq%3D%26vjk%3De525df493a1ef7f8%26l%3DSheffield%252C%2BSouth%2BYorkshire",
+    "vjFeaturedEmployerCandidate": false
+  },
+  {
+    "appliedOrGreater": false,
+    "applyCount": 0,
+    "blobKey": "SoAw67M3Fr-q_kzOlZ0DbzkdCdPP",
+    "clickLoggingUrl": "/rc/clk?jk=a9c9be6e5e1c0ba6&from=jasx&tk=1hlbr990jk7pn800&bb=CcJ391SNJQpTN1oew-GA4cYwm-kBmH4Wehx7fCdnqbyNw7z2pD7HVMg3LGo4FM50us2_ByfrFw6YfH387-rImH5xnqxxWkLLzpQmDuBt4GT2MDds1WensA%3D%3D&xkcb=SoAw67M3Fr-q_kzOlZ0DbzkdCdPP&vjs=2",
+    "company": "South Yorkshire Housing Association",
+    "companyBrandingAttributes": {
+      "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ee770253c156c45a6ee792ddaeab1ab9"
+    },
+    "companyIdEncrypted": "4f5f32f1bf77e6d9",
+    "companyOverviewLink": "/cmp/South-Yorkshire-Housing-Association",
+    "companyOverviewLinkCampaignId": "",
+    "companyRating": 3.4,
+    "companyReviewCount": 39,
+    "companyReviewLink": "/cmp/South-Yorkshire-Housing-Association/reviews",
+    "companyReviewLinkCampaignId": "cmplinktst2",
+    "createDate": 1706267329000,
+    "d2iEnabled": false,
+    "displayTitle": "Housing Officer",
+    "dradisJob": false,
+    "employerAssistEnabled": false,
+    "employerResponsive": false,
+    "encryptedFccompanyId": "b5b99c2847f99c75",
+    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+    "enhancedAttributesModel": {},
+    "enticers": [],
+    "expired": false,
+    "extractTrackingUrls": "",
+    "extractedSalary": {
+      "max": 31276,
+      "min": 31276,
+      "type": "yearly"
+    },
+    "fccompanyId": -1,
+    "featuredCompanyAttributes": {},
+    "featuredEmployer": false,
+    "featuredEmployerCandidate": false,
+    "feedId": 249068,
+    "formattedLocation": "Sheffield S1",
+    "formattedRelativeTime": "3 days ago",
+    "hideMetaData": false,
+    "highQualityMarketplace": {
+      "match": false
+    },
+    "highVolumeHiringModel": {
+      "highVolumeHiring": false
+    },
+    "hiringEventJob": false,
+    "homepageJobFeedSectionId": "0",
+    "indeedApplyEnabled": false,
+    "indeedApplyable": false,
+    "isJobVisited": false,
+    "isMobileThirdPartyApplyable": false,
+    "isNoResumeJob": false,
+    "isSubsidiaryJob": false,
+    "jobCardRequirementsModel": {
+      "additionalRequirementsCount": 0,
+      "jobTagRequirements": [],
+      "requirementsHeaderShown": false
+    },
+    "jobLocationCity": "Sheffield",
+    "jobLocationPostal": "S1 4EB",
+    "jobLocationState": "ENG",
+    "jobTypes": [
+      "Part-time"
+    ],
+    "jobkey": "a9c9be6e5e1c0ba6",
+    "jsiEnabled": false,
+    "link": "/rc/clk?jk=a9c9be6e5e1c0ba6&bb=CcJ391SNJQpTN1oew-GA4cYwm-kBmH4Wehx7fCdnqbyNw7z2pD7HVMg3LGo4FM50qzjzXt8dWLp-hl7iBIUw989RBGiMrcCa_ydSxmU9tx8%3D&xkcb=SoAw67M3Fr-q_kzOlZ0DbzkdCdPP&fccid=4f5f32f1bf77e6d9&vjs=3",
+    "locationCount": 1,
+    "mobtk": "1hlbr990jk7pn800",
+    "moreLinks": {
+      "companyName": "South Yorkshire Housing Association",
+      "companyText": "South Yorkshire Housing Association jobs",
+      "locationName": "Sheffield",
+      "qnaUrl": "/cmp/South-Yorkshire-Housing-Association/faq",
+      "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=a9c9be6e5e1c0ba6&jcid=4f5f32f1bf77e6d9",
+      "resultNumber": 8,
+      "salaryLocationName": "Sheffield",
+      "salaryNoFollowLink": false,
+      "salaryUrl": "/career/housing-officer/salaries/Sheffield-S1",
+      "salaryUrlParams": "?campaignid=serp-more&fromjk=a9c9be6e5e1c0ba6&from=serp-more",
+      "shortLocationName": "Sheffield",
+      "showAcmeLink": true,
+      "showAcmeQnaLink": true,
+      "showViewAllCompanyAndLocationLinks": false,
+      "showViewAllCompanyLink": true,
+      "showViewAllLocationLink": false,
+      "showViewAllNormalizedTitleLink": false,
+      "viewAllCompanyLinkText": "South Yorkshire Housing Association jobs",
+      "viewAllCompanyUrl": "/q-south-yorkshire-housing-association-jobs.html",
+      "viewAllLocationUrl": "/l-sheffield-jobs.html",
+      "visible": false
+    },
+    "moreLocUrl": "/jobs?q=&l=Sheffield%2C+South+Yorkshire&jtid=478559270606a663&jcid=4f5f32f1bf77e6d9&grp=tcl",
+    "mouseDownHandlerOption": {
+      "adId": "",
+      "advn": "",
+      "extractTrackingUrls": [],
+      "from": "vjs",
+      "jobKey": "a9c9be6e5e1c0ba6",
+      "link": "/rc/clk?jk=a9c9be6e5e1c0ba6&bb=CcJ391SNJQpTN1oew-GA4cYwm-kBmH4Wehx7fCdnqbyNw7z2pD7HVMg3LGo4FM50qzjzXt8dWLp-hl7iBIUw989RBGiMrcCa_ydSxmU9tx8%3D&xkcb=SoAw67M3Fr-q_kzOlZ0DbzkdCdPP&fccid=4f5f32f1bf77e6d9&vjs=3",
+      "tk": "1hlbr990jk7pn800"
+    },
+    "newJob": true,
+    "normTitle": "Housing Officer",
+    "openInterviewsInterviewsOnTheSpot": false,
+    "openInterviewsJob": false,
+    "openInterviewsOffersOnTheSpot": false,
+    "openInterviewsPhoneJob": false,
+    "organicApplyStartCount": 151,
+    "organicBlob": "CcJ391SNJQpTN1oew-GA4cYwm-kBmH4Wehx7fCdnqbyNw7z2pD7HVMg3LGo4FM50qzjzXt8dWLp-hl7iBIUw989RBGiMrcCa_ydSxmU9tx8=",
+    "overrideIndeedApplyText": true,
+    "preciseLocationModel": {
+      "obfuscateLocation": false,
+      "overrideJCMPreciseLocationModel": true
+    },
+    "pubDate": 1706248800000,
+    "rankingScoresModel": {
+      "bid": 0,
+      "eApply": 0.008701469,
+      "eQualified": 0
+    },
+    "redirectToThirdPartySite": false,
+    "remoteLocation": false,
+    "remoteWorkModel": {
+      "inlineText": true,
+      "type": "REMOTE_HYBRID"
+    },
+    "resumeMatch": false,
+    "salarySnippet": {
+      "currency": "GBP",
+      "salaryTextFormatted": false,
+      "source": "EXTRACTION",
+      "text": "£31,276 a year"
+    },
+    "saved": false,
+    "savedApplication": false,
+    "screenerQuestionsURL": "",
+    "searchUID": "1hlbr990jk7pn800",
+    "showAttainabilityBadge": false,
+    "showCommutePromo": false,
+    "showEarlyApply": false,
+    "showJobType": false,
+    "showRelativeDate": true,
+    "showSponsoredLabel": false,
+    "showStrongerAppliedLabel": false,
+    "smartFillEnabled": false,
+    "smbD2iEnabled": false,
+    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li style=\"margin-bottom:0px;\">Full Driving licence and access to a car during working hours is essential.</li>\n <li>You would be responsible for providing customers with excellent housing services and…</li>\n</ul>",
+    "sourceId": 653133,
+    "sponsored": false,
+    "taxoAttributes": [
+      "Driving Licence",
+      "Hybrid remote"
+    ],
+    "taxoAttributesDisplayLimit": 4,
+    "taxoLogAttributes": [
+      "5RMAX",
+      "PAXZC"
+    ],
+    "taxonomyAttributes": [
+      {
+        "attributes": [
+          {
+            "label": "Part-time",
+            "suid": "75GKK"
+          }
+        ],
+        "label": "job-types"
+      },
+      {
+        "attributes": [],
+        "label": "shifts"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Hybrid remote",
+            "suid": "PAXZC"
+          }
+        ],
+        "label": "remote"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Cycle to work scheme",
+            "suid": "F5Y84"
+          },
+          {
+            "label": "Company pension",
+            "suid": "KBRYN"
+          },
+          {
+            "label": "Employee discount",
+            "suid": "SXFZX"
+          },
+          {
+            "label": "Gym membership",
+            "suid": "TZV2T"
+          }
+        ],
+        "label": "benefits"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Part-time",
+            "suid": "75GKK"
+          }
+        ],
+        "label": "job-types-cc"
+      },
+      {
+        "attributes": [],
+        "label": "schedules"
+      }
+    ],
+    "thirdPartyApplyUrl": "http://uk.indeed.com//applystart?jk=a9c9be6e5e1c0ba6&from=jobsearch&mvj=0&jobsearchTk=1hlbr990jk7pn800&spon=0&adid=0&xkcb=SoAw67M3Fr-q_kzOlZ0DbzkdCdPP&sjdu=AdG7SW7imO7P8ffj-Irt_oEeVf9mIHAv07J4mGI8OP3RAKt-GJa1TlanU_SiAAR-hRIeJnDec9IwrE6dXo1Zd1LptkrtkXMajiJ-AiB-l6lm4hS51TjvGvAworXPuBQnDqsVx7v-pxO2O7pYH5nJXBtgSSUL1epEXdu5bs-HbvjGt3_jhpZrr56HsnAtZTVyzZDIk7eUkRHlz-fPiH_1n5lQAoFur1GS1dM1QzTPTwTV3z2bfGBbw0rGMTusf0ZIuRJE7thGUG6of2JP5GJVpA&vjfrom=vjs&astse=6ab15e305c71c268&assa=3026",
+    "tier": {
+      "matchedPreferences": {
+        "longMatchedPreferences": [],
+        "stringMatchedPreferences": []
+      },
+      "type": "DEFAULT"
+    },
+    "title": "Housing Officer",
+    "translatedAttributes": [],
+    "translatedCmiJobTags": [
+      "社割あり"
+    ],
+    "truncatedCompany": "South Yorkshire Housing Association",
+    "urgentlyHiring": false,
+    "viewJobLink": "/viewjob?jk=a9c9be6e5e1c0ba6&from=vjs&tk=1hlbr990jk7pn800&viewtype=embedded&xkcb=SoAw67M3Fr-q_kzOlZ0DbzkdCdPP&continueUrl=%2Fjobs%3Fq%3D%26vjk%3De525df493a1ef7f8%26l%3DSheffield%252C%2BSouth%2BYorkshire",
+    "vjFeaturedEmployerCandidate": false
+  },
+  {
+    "additionalLocationLink": {
+      "label": "+1 location",
+      "url": "/addlLoc/redirect?tk=1hlbr990jk7pn800&jk=4564e03db07dbc40&dest=%2Fjobs%3Fq%3D%26l%3DSheffield%252C%2BSouth%2BYorkshire%26grpKey%3DkAPG4RaYA87YuL8CoAMB8gcDdGNs"
+    },
+    "appliedOrGreater": false,
+    "applyCount": 0,
+    "blobKey": "SoCE67M3Fr-q_kzOlZ0CbzkdCdPP",
+    "clickLoggingUrl": "/rc/clk?jk=4564e03db07dbc40&from=jasx&tk=1hlbr990jk7pn800&bb=CcJ391SNJQpTN1oew-GA4Sv_bFq773U-VtHOeQ6iBNAHnW1m_6XxEE9WC5JtCAOF0h89rV5m2oKL6-fk9U5Dv9EeFqvnzqiKiQKaJZGARga7jCSvW7SzIw%3D%3D&xkcb=SoCE67M3Fr-q_kzOlZ0CbzkdCdPP&vjs=2",
+    "company": "National Trust",
+    "companyBrandingAttributes": {
+      "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/c20dbc433f7f56de04bd9b0207dbbe6e",
+      "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/7ef088bef94d2010b31b13a29f0f60a8"
+    },
+    "companyIdEncrypted": "21c97f854136d722",
+    "companyOverviewLink": "/cmp/National-Trust",
+    "companyOverviewLinkCampaignId": "serp-linkcompanyname-content",
+    "companyRating": 3.8,
+    "companyReviewCount": 713,
+    "companyReviewLink": "/cmp/National-Trust/reviews",
+    "companyReviewLinkCampaignId": "cmplinktst2",
+    "createDate": 1706492123000,
+    "d2iEnabled": false,
+    "displayTitle": "Welcome & Service Assistant",
+    "dradisJob": false,
+    "employerAssistEnabled": false,
+    "employerResponsive": false,
+    "encryptedFccompanyId": "f52420be51d4ea6a",
+    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+    "enhancedAttributesModel": {},
+    "enticers": [],
+    "expired": false,
+    "extractTrackingUrls": "",
+    "extractedSalary": {
+      "max": 10.78,
+      "min": 10.78,
+      "type": "hourly"
+    },
+    "fccompanyId": -1,
+    "featuredCompanyAttributes": {},
+    "featuredEmployer": false,
+    "featuredEmployerCandidate": false,
+    "feedId": 38974,
+    "formattedLocation": "Sheffield S11",
+    "formattedRelativeTime": "Today",
+    "hideMetaData": false,
+    "highQualityMarketplace": {
+      "match": false
+    },
+    "highVolumeHiringModel": {
+      "highVolumeHiring": false
+    },
+    "hiringEventJob": false,
+    "homepageJobFeedSectionId": "0",
+    "indeedApplyEnabled": false,
+    "indeedApplyable": false,
+    "isJobVisited": false,
+    "isMobileThirdPartyApplyable": false,
+    "isNoResumeJob": false,
+    "isSubsidiaryJob": false,
+    "jobCardRequirementsModel": {
+      "additionalRequirementsCount": 0,
+      "jobTagRequirements": [],
+      "requirementsHeaderShown": false
+    },
+    "jobLocationCity": "Sheffield",
+    "jobLocationPostal": "S11 7TZ",
+    "jobLocationState": "ENG",
+    "jobTypes": [
+      "Contract"
+    ],
+    "jobkey": "4564e03db07dbc40",
+    "jsiEnabled": false,
+    "link": "/rc/clk?jk=4564e03db07dbc40&bb=CcJ391SNJQpTN1oew-GA4Sv_bFq773U-VtHOeQ6iBNAHnW1m_6XxEE9WC5JtCAOF7g3m3pfODmmZpbQ_7M6nmSW9_M9CWW2xfdf9lP5VqT0%3D&xkcb=SoCE67M3Fr-q_kzOlZ0CbzkdCdPP&fccid=21c97f854136d722&vjs=3",
+    "locationCount": 2,
+    "mobtk": "1hlbr990jk7pn800",
+    "moreLinks": {
+      "companyName": "National Trust",
+      "companyText": "National Trust jobs",
+      "locationName": "Sheffield",
+      "qnaUrl": "/cmp/National-Trust/faq",
+      "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=4564e03db07dbc40&jcid=21c97f854136d722",
+      "resultNumber": 9,
+      "salaryLocationName": "Sheffield",
+      "salaryNoFollowLink": false,
+      "salaryUrl": "/career/service-assistant/salaries/Sheffield-S11",
+      "salaryUrlParams": "?campaignid=serp-more&fromjk=4564e03db07dbc40&from=serp-more",
+      "shortLocationName": "Sheffield",
+      "showAcmeLink": true,
+      "showAcmeQnaLink": true,
+      "showViewAllCompanyAndLocationLinks": false,
+      "showViewAllCompanyLink": true,
+      "showViewAllLocationLink": false,
+      "showViewAllNormalizedTitleLink": true,
+      "viewAllCompanyLinkText": "National Trust jobs",
+      "viewAllCompanyUrl": "/q-national-trust-jobs.html",
+      "viewAllLocationUrl": "/l-sheffield-jobs.html",
+      "viewAllNormalizedTitleLink": "/q-service-assistant-l-sheffield-jobs.html",
+      "viewAllNormalizedTitleLinkText": "Service Assistant jobs in Sheffield",
+      "visible": false
+    },
+    "moreLocUrl": "/jobs?q=&l=Sheffield%2C+South+Yorkshire&jtid=f891ccd8d5a35932&jcid=21c97f854136d722&grp=tcl",
+    "mouseDownHandlerOption": {
+      "adId": "",
+      "advn": "",
+      "extractTrackingUrls": [],
+      "from": "vjs",
+      "jobKey": "4564e03db07dbc40",
+      "link": "/rc/clk?jk=4564e03db07dbc40&bb=CcJ391SNJQpTN1oew-GA4Sv_bFq773U-VtHOeQ6iBNAHnW1m_6XxEE9WC5JtCAOF7g3m3pfODmmZpbQ_7M6nmSW9_M9CWW2xfdf9lP5VqT0%3D&xkcb=SoCE67M3Fr-q_kzOlZ0CbzkdCdPP&fccid=21c97f854136d722&vjs=3",
+      "tk": "1hlbr990jk7pn800"
+    },
+    "newJob": true,
+    "normTitle": "Service Assistant",
+    "openInterviewsInterviewsOnTheSpot": false,
+    "openInterviewsJob": false,
+    "openInterviewsOffersOnTheSpot": false,
+    "openInterviewsPhoneJob": false,
+    "organicApplyStartCount": 97,
+    "organicBlob": "CcJ391SNJQpTN1oew-GA4Sv_bFq773U-VtHOeQ6iBNAHnW1m_6XxEE9WC5JtCAOF7g3m3pfODmmZpbQ_7M6nmSW9_M9CWW2xfdf9lP5VqT0=",
+    "overrideIndeedApplyText": true,
+    "preciseLocationModel": {
+      "obfuscateLocation": false,
+      "overrideJCMPreciseLocationModel": true
+    },
+    "pubDate": 1706508000000,
+    "rankingScoresModel": {
+      "bid": 0,
+      "eApply": 0.008643266,
+      "eQualified": 0
+    },
+    "redirectToThirdPartySite": false,
+    "remoteLocation": false,
+    "resumeMatch": false,
+    "salarySnippet": {
+      "currency": "GBP",
+      "salaryTextFormatted": false,
+      "source": "EXTRACTION",
+      "text": "£10.78 an hour"
+    },
+    "saved": false,
+    "savedApplication": false,
+    "screenerQuestionsURL": "",
+    "searchUID": "1hlbr990jk7pn800",
+    "showAttainabilityBadge": false,
+    "showCommutePromo": false,
+    "showEarlyApply": false,
+    "showJobType": false,
+    "showRelativeDate": true,
+    "showSponsoredLabel": false,
+    "showStrongerAppliedLabel": false,
+    "smartFillEnabled": false,
+    "smbD2iEnabled": false,
+    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li style=\"margin-bottom:0px;\">Free entry to National Trust places for you, a guest and your children (under 18).</li>\n <li>Holiday allowance up to 32 days relating to length of service, plus holiday…</li>\n</ul>",
+    "sourceId": 71165,
+    "sponsored": false,
+    "taxoAttributes": [],
+    "taxoAttributesDisplayLimit": 4,
+    "taxoLogAttributes": [],
+    "taxonomyAttributes": [
+      {
+        "attributes": [],
+        "label": "job-types"
+      },
+      {
+        "attributes": [],
+        "label": "shifts"
+      },
+      {
+        "attributes": [],
+        "label": "remote"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Free parking",
+            "suid": "3K96F"
+          },
+          {
+            "label": "Season ticket loan",
+            "suid": "FA7C6"
+          },
+          {
+            "label": "Financial planning services",
+            "suid": "GHBG4"
+          },
+          {
+            "label": "Company pension",
+            "suid": "KBRYN"
+          },
+          {
+            "label": "Employee discount",
+            "suid": "SXFZX"
+          },
+          {
+            "label": "Gym membership",
+            "suid": "TZV2T"
+          }
+        ],
+        "label": "benefits"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Fixed term contract",
+            "suid": "T9BXE"
+          }
+        ],
+        "label": "job-types-cc"
+      },
+      {
+        "attributes": [],
+        "label": "schedules"
+      }
+    ],
+    "thirdPartyApplyUrl": "http://uk.indeed.com//applystart?jk=4564e03db07dbc40&from=jobsearch&mvj=0&jobsearchTk=1hlbr990jk7pn800&spon=0&adid=0&xkcb=SoCE67M3Fr-q_kzOlZ0CbzkdCdPP&sjdu=4mXDN4vnwY1OgVzJ93Da5F67ldLulmtnA4leNIHPMwTRAKt-GJa1TlanU_SiAAR-gg6TokNZDgr6VszuOjdcdYjAM6xE1jUD2e7riOY-Soo3VaXE-5f5Vhw4hcKDhat72qJd2bTWqFevUqUSWdKgNMWZIRFNvAX5KrQkqIIR5EnyBxUwKXn0teFYADWDhYRNNK4mlahPbS87bEgybug_MHnv--tNZCZhimvvoW6Y_KT7m2XAAQ3lXTZMHMq38aY46HIAIPSbuylBWoQUgGkVjg&vjfrom=vjs&astse=6ab15e305c71c268&assa=3026",
+    "tier": {
+      "matchedPreferences": {
+        "longMatchedPreferences": [],
+        "stringMatchedPreferences": []
+      },
+      "type": "DEFAULT"
+    },
+    "title": "Welcome & Service Assistant",
+    "translatedAttributes": [],
+    "translatedCmiJobTags": [
+      "社割あり"
+    ],
+    "truncatedCompany": "National Trust",
+    "urgentlyHiring": false,
+    "viewJobLink": "/viewjob?jk=4564e03db07dbc40&from=vjs&tk=1hlbr990jk7pn800&viewtype=embedded&xkcb=SoCE67M3Fr-q_kzOlZ0CbzkdCdPP&continueUrl=%2Fjobs%3Fq%3D%26vjk%3De525df493a1ef7f8%26l%3DSheffield%252C%2BSouth%2BYorkshire",
+    "vjFeaturedEmployerCandidate": false
+  },
+  {
+    "appliedOrGreater": false,
+    "applyCount": 0,
+    "blobKey": "SoAZ67M3Fr-q_kzOlZ0BbzkdCdPP",
+    "clickLoggingUrl": "/rc/clk?jk=f4ce5791c647d23f&from=jasx&tk=1hlbr990jk7pn800&bb=CcJ391SNJQpTN1oew-GA4czi5ghrojFCmYVJ_gfsZMF2-CHd5OA_p4SOkFC-ndHO2xvYfS_fmWhV5aPVULXz7CfAuZ7otW462q89Y0tL4g3XwerbdQQaxA%3D%3D&xkcb=SoAZ67M3Fr-q_kzOlZ0BbzkdCdPP&vjs=2",
+    "company": "University of Sheffield",
+    "companyBrandingAttributes": {
+      "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/1f6a210b96b69755af52d444b62f7b93",
+      "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2169d40d4c24bf2bffde835e5d46dce1"
+    },
+    "companyIdEncrypted": "30e0d7438dd0a131",
+    "companyOverviewLink": "/cmp/University-of-Sheffield",
+    "companyOverviewLinkCampaignId": "serp-linkcompanyname-content",
+    "companyRating": 4.4,
+    "companyReviewCount": 256,
+    "companyReviewLink": "/cmp/University-of-Sheffield/reviews",
+    "companyReviewLinkCampaignId": "cmplinktst2",
+    "createDate": 1705662821000,
+    "d2iEnabled": false,
+    "displayTitle": "Administrator (Academic Skills)",
+    "dradisJob": false,
+    "employerAssistEnabled": false,
+    "employerResponsive": false,
+    "encryptedFccompanyId": "a3e23b90f1996827",
+    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+    "enhancedAttributesModel": {},
+    "enticers": [],
+    "expired": false,
+    "extractTrackingUrls": "",
+    "extractedSalary": {
+      "max": 25138,
+      "min": 23700,
+      "type": "yearly"
+    },
+    "fccompanyId": -1,
+    "featuredCompanyAttributes": {},
+    "featuredEmployer": false,
+    "featuredEmployerCandidate": false,
+    "feedId": 102913,
+    "formattedLocation": "Sheffield",
+    "formattedRelativeTime": "10 days ago",
+    "hideMetaData": false,
+    "highQualityMarketplace": {
+      "match": false
+    },
+    "highVolumeHiringModel": {
+      "highVolumeHiring": false
+    },
+    "hiringEventJob": false,
+    "homepageJobFeedSectionId": "0",
+    "indeedApplyEnabled": false,
+    "indeedApplyable": false,
+    "isJobVisited": false,
+    "isMobileThirdPartyApplyable": false,
+    "isNoResumeJob": false,
+    "isSubsidiaryJob": false,
+    "jobCardRequirementsModel": {
+      "additionalRequirementsCount": 0,
+      "jobTagRequirements": [],
+      "requirementsHeaderShown": false
+    },
+    "jobLocationCity": "Sheffield",
+    "jobLocationState": "ENG",
+    "jobTypes": [
+      "Part-time"
+    ],
+    "jobkey": "f4ce5791c647d23f",
+    "jsiEnabled": false,
+    "link": "/rc/clk?jk=f4ce5791c647d23f&bb=CcJ391SNJQpTN1oew-GA4czi5ghrojFCmYVJ_gfsZMF2-CHd5OA_p4SOkFC-ndHOazwksMtz5QVs8M7ir9lGrtHlyXx0zypOI6JwyORL3JI%3D&xkcb=SoAZ67M3Fr-q_kzOlZ0BbzkdCdPP&fccid=30e0d7438dd0a131&vjs=3",
+    "locationCount": 1,
+    "loceJobTagModel": {},
+    "mobtk": "1hlbr990jk7pn800",
+    "moreLinks": {
+      "companyName": "University of Sheffield",
+      "companyText": "University of Sheffield jobs",
+      "locationName": "Sheffield",
+      "qnaUrl": "/cmp/University-of-Sheffield/faq",
+      "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=f4ce5791c647d23f&jcid=30e0d7438dd0a131",
+      "resultNumber": 10,
+      "salaryLocationName": "Sheffield",
+      "salaryNoFollowLink": false,
+      "salaryUrl": "/career/administrator/salaries/Sheffield",
+      "salaryUrlParams": "?campaignid=serp-more&fromjk=f4ce5791c647d23f&from=serp-more",
+      "shortLocationName": "Sheffield",
+      "showAcmeLink": true,
+      "showAcmeQnaLink": true,
+      "showViewAllCompanyAndLocationLinks": false,
+      "showViewAllCompanyLink": true,
+      "showViewAllLocationLink": false,
+      "showViewAllNormalizedTitleLink": true,
+      "viewAllCompanyLinkText": "University of Sheffield jobs",
+      "viewAllCompanyUrl": "/q-university-of-sheffield-jobs.html",
+      "viewAllLocationUrl": "/l-sheffield-jobs.html",
+      "viewAllNormalizedTitleLink": "/q-administrator-l-sheffield-jobs.html",
+      "viewAllNormalizedTitleLinkText": "Administrator jobs in Sheffield",
+      "visible": false
+    },
+    "moreLocUrl": "/jobs?q=&l=Sheffield%2C+South+Yorkshire&jtid=77743d994062e59f&jcid=30e0d7438dd0a131&grp=tcl",
+    "mouseDownHandlerOption": {
+      "adId": "",
+      "advn": "",
+      "extractTrackingUrls": [],
+      "from": "vjs",
+      "jobKey": "f4ce5791c647d23f",
+      "link": "/rc/clk?jk=f4ce5791c647d23f&bb=CcJ391SNJQpTN1oew-GA4czi5ghrojFCmYVJ_gfsZMF2-CHd5OA_p4SOkFC-ndHOazwksMtz5QVs8M7ir9lGrtHlyXx0zypOI6JwyORL3JI%3D&xkcb=SoAZ67M3Fr-q_kzOlZ0BbzkdCdPP&fccid=30e0d7438dd0a131&vjs=3",
+      "tk": "1hlbr990jk7pn800"
+    },
+    "newJob": false,
+    "normTitle": "Administrator",
+    "openInterviewsInterviewsOnTheSpot": false,
+    "openInterviewsJob": false,
+    "openInterviewsOffersOnTheSpot": false,
+    "openInterviewsPhoneJob": false,
+    "organicApplyStartCount": 166,
+    "organicBlob": "CcJ391SNJQpTN1oew-GA4czi5ghrojFCmYVJ_gfsZMF2-CHd5OA_p4SOkFC-ndHOazwksMtz5QVs8M7ir9lGrtHlyXx0zypOI6JwyORL3JI=",
+    "overrideIndeedApplyText": true,
+    "preciseLocationModel": {
+      "obfuscateLocation": false,
+      "overrideJCMPreciseLocationModel": true
+    },
+    "pubDate": 1705644000000,
+    "rankingScoresModel": {
+      "bid": 0,
+      "eApply": 0.008365501,
+      "eQualified": 0
+    },
+    "redirectToThirdPartySite": false,
+    "remoteLocation": false,
+    "resumeMatch": false,
+    "salarySnippet": {
+      "currency": "GBP",
+      "salaryTextFormatted": false,
+      "source": "EXTRACTION",
+      "text": "£23,700 - £25,138 a year"
+    },
+    "saved": false,
+    "savedApplication": false,
+    "screenerQuestionsURL": "",
+    "searchUID": "1hlbr990jk7pn800",
+    "showAttainabilityBadge": false,
+    "showCommutePromo": false,
+    "showEarlyApply": false,
+    "showJobType": false,
+    "showRelativeDate": true,
+    "showSponsoredLabel": false,
+    "showStrongerAppliedLabel": false,
+    "smartFillEnabled": false,
+    "smbD2iEnabled": false,
+    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li>You will have a keen interest in student skills development, and a commitment to providing a high-quality service to users of 301’s core activities and projects…</li>\n</ul>",
+    "sourceId": 76443,
+    "sponsored": false,
+    "taxoAttributes": [],
+    "taxoAttributesDisplayLimit": 4,
+    "taxoLogAttributes": [],
+    "taxonomyAttributes": [
+      {
+        "attributes": [
+          {
+            "label": "Part-time",
+            "suid": "75GKK"
+          }
+        ],
+        "label": "job-types"
+      },
+      {
+        "attributes": [],
+        "label": "shifts"
+      },
+      {
+        "attributes": [],
+        "label": "remote"
+      },
+      {
+        "attributes": [],
+        "label": "benefits"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Part-time",
+            "suid": "75GKK"
+          }
+        ],
+        "label": "job-types-cc"
+      },
+      {
+        "attributes": [],
+        "label": "schedules"
+      }
+    ],
+    "thirdPartyApplyUrl": "http://uk.indeed.com//applystart?jk=f4ce5791c647d23f&from=jobsearch&mvj=0&jobsearchTk=1hlbr990jk7pn800&spon=0&adid=0&xkcb=SoAZ67M3Fr-q_kzOlZ0BbzkdCdPP&sjdu=5BrJr0IfVrTW_ACeKGPpejpamSzS5P977zzz4IHt0p_RAKt-GJa1TlanU_SiAAR-BkVMLD5xX8OUShHb-qHErFktzbMWdf6CXfF0Lo5o6L7Q5yfnXALBHiZz0PDHvHKGNcbi3Eawl8BysbWKH9Z-YBaagRcdshlCh_B5ht5qS_9ARt2qGi_96IUdTC7jr14MtcuzzAkJLnwFiOwnF6y2Y3FrvkjQkAFd3xwca9y4ff9y_Bp3tsAjUA5NwGYErHj-OZRmWh0hEXEjnUyzzuOk0w&vjfrom=vjs&astse=3c0b353cd924950f&assa=3027",
+    "tier": {
+      "matchedPreferences": {
+        "longMatchedPreferences": [],
+        "stringMatchedPreferences": []
+      },
+      "type": "DEFAULT"
+    },
+    "title": "Administrator (Academic Skills)",
+    "translatedAttributes": [],
+    "translatedCmiJobTags": [],
+    "truncatedCompany": "University of Sheffield",
+    "urgentlyHiring": false,
+    "viewJobLink": "/viewjob?jk=f4ce5791c647d23f&from=vjs&tk=1hlbr990jk7pn800&viewtype=embedded&xkcb=SoAZ67M3Fr-q_kzOlZ0BbzkdCdPP&continueUrl=%2Fjobs%3Fq%3D%26vjk%3De525df493a1ef7f8%26l%3DSheffield%252C%2BSouth%2BYorkshire",
+    "vjFeaturedEmployerCandidate": false
+  },
+  {
+    "additionalLocationLink": {
+      "label": "+6 locations",
+      "url": "/addlLoc/redirect?tk=1hlbr990jk7pn800&jk=572b2b9dc4581e58&dest=%2Fjobs%3Fq%3D%26l%3DSheffield%252C%2BSouth%2BYorkshire%26grpKey%3DkAPOsyiYA-mYE6ADAfIHA3RjbA%253D%253D"
+    },
+    "appliedOrGreater": false,
+    "applyCount": -1,
+    "blobKey": "SoCt67M3Fr-q_kzOlZ0AbzkdCdPP",
+    "clickLoggingUrl": "/rc/clk?jk=572b2b9dc4581e58&from=jasx&tk=1hlbr990jk7pn800&bb=CcJ391SNJQpTN1oew-GA4RJC5mzwQ-QnuMoCTjKRgJP1KYOdbq7QhlztT5d9UdcgWhB1npgZovW_wKPjDYzN6IWGItyrVNZ2tHq4ZkHFc2SXb3o1O0kgCg%3D%3D&xkcb=SoCt67M3Fr-q_kzOlZ0AbzkdCdPP&vjs=2",
+    "company": "Iceland",
+    "companyBrandingAttributes": {
+      "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/a10561458e717ea6b3bb9478c24ced0f",
+      "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/60c9eef74724d191bb29469522190ec1"
+    },
+    "companyIdEncrypted": "ea7bd1960cfb2e91",
+    "companyOverviewLink": "/cmp/Iceland-Foods",
+    "companyOverviewLinkCampaignId": "serp-linkcompanyname-content",
+    "companyRating": 3.2,
+    "companyReviewCount": 3140,
+    "companyReviewLink": "/cmp/Iceland-Foods/reviews",
+    "companyReviewLinkCampaignId": "cmplinktst2",
+    "createDate": 1704472250000,
+    "d2iEnabled": false,
+    "displayTitle": "Retail Assistant",
+    "dradisJob": false,
+    "employerAssistEnabled": false,
+    "employerResponsive": false,
+    "encryptedFccompanyId": "398a2cb2600df44d",
+    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+    "enhancedAttributesModel": {},
+    "enticers": [],
+    "expired": false,
+    "extractTrackingUrls": "",
+    "extractedSalary": {
+      "max": 10.42,
+      "min": 9.5,
+      "type": "hourly"
+    },
+    "fccompanyId": -1,
+    "featuredCompanyAttributes": {},
+    "featuredEmployer": false,
+    "featuredEmployerCandidate": false,
+    "feedId": 235710,
+    "formattedLocation": "Sheffield",
+    "formattedRelativeTime": "24 days ago",
+    "hideMetaData": false,
+    "highQualityMarketplace": {
+      "match": false
+    },
+    "highVolumeHiringModel": {
+      "highVolumeHiring": false
+    },
+    "hiringEventJob": false,
+    "homepageJobFeedSectionId": "0",
+    "indeedApplyEnabled": false,
+    "indeedApplyable": false,
+    "isJobVisited": false,
+    "isMobileThirdPartyApplyable": true,
+    "isNoResumeJob": false,
+    "isSubsidiaryJob": false,
+    "jobCardRequirementsModel": {
+      "additionalRequirementsCount": 0,
+      "jobTagRequirements": [],
+      "requirementsHeaderShown": false
+    },
+    "jobLocationCity": "Sheffield",
+    "jobLocationState": "ENG",
+    "jobTypes": [
+      "Part-time"
+    ],
+    "jobkey": "572b2b9dc4581e58",
+    "jsiEnabled": false,
+    "link": "/rc/clk?jk=572b2b9dc4581e58&bb=CcJ391SNJQpTN1oew-GA4RJC5mzwQ-QnuMoCTjKRgJP1KYOdbq7QhlztT5d9UdcgHUymMBiE_aSdimHazQ3Ul0PdsP0-Vjh6WAMCJkTWfY4%3D&xkcb=SoCt67M3Fr-q_kzOlZ0AbzkdCdPP&fccid=57e1b8a78f76f47e&vjs=3",
+    "locationCount": 7,
+    "mobtk": "1hlbr990jk7pn800",
+    "moreLinks": {
+      "companyName": "Iceland",
+      "companyText": "Iceland jobs",
+      "locationName": "Sheffield",
+      "qnaUrl": "/cmp/Iceland-Foods/faq",
+      "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=572b2b9dc4581e58&jcid=ea7bd1960cfb2e91",
+      "resultNumber": 11,
+      "salaryLocationName": "Sheffield",
+      "salaryNoFollowLink": false,
+      "salaryUrl": "/career/retail-sales-associate/salaries/Sheffield",
+      "salaryUrlParams": "?campaignid=serp-more&fromjk=572b2b9dc4581e58&from=serp-more",
+      "shortLocationName": "Sheffield",
+      "showAcmeLink": true,
+      "showAcmeQnaLink": true,
+      "showViewAllCompanyAndLocationLinks": false,
+      "showViewAllCompanyLink": true,
+      "showViewAllLocationLink": false,
+      "showViewAllNormalizedTitleLink": true,
+      "viewAllCompanyLinkText": "Iceland jobs",
+      "viewAllCompanyUrl": "/q-iceland-jobs.html",
+      "viewAllLocationUrl": "/l-sheffield-jobs.html",
+      "viewAllNormalizedTitleLink": "/q-retail-sales-associate-l-sheffield-jobs.html",
+      "viewAllNormalizedTitleLinkText": "Retail Sales Associate jobs in Sheffield",
+      "visible": false
+    },
+    "moreLocUrl": "/jobs?q=&l=Sheffield%2C+South+Yorkshire&jtid=9fc6037d8b02d55d&jcid=ea7bd1960cfb2e91&grp=tcl",
+    "mouseDownHandlerOption": {
+      "adId": "",
+      "advn": "",
+      "extractTrackingUrls": [],
+      "from": "vjs",
+      "jobKey": "572b2b9dc4581e58",
+      "link": "/rc/clk?jk=572b2b9dc4581e58&bb=CcJ391SNJQpTN1oew-GA4RJC5mzwQ-QnuMoCTjKRgJP1KYOdbq7QhlztT5d9UdcgHUymMBiE_aSdimHazQ3Ul0PdsP0-Vjh6WAMCJkTWfY4%3D&xkcb=SoCt67M3Fr-q_kzOlZ0AbzkdCdPP&fccid=57e1b8a78f76f47e&vjs=3",
+      "tk": "1hlbr990jk7pn800"
+    },
+    "newJob": false,
+    "normTitle": "Retail Sales Associate",
+    "openInterviewsInterviewsOnTheSpot": false,
+    "openInterviewsJob": false,
+    "openInterviewsOffersOnTheSpot": false,
+    "openInterviewsPhoneJob": false,
+    "organicApplyStartCount": 0,
+    "organicBlob": "CcJ391SNJQpTN1oew-GA4RJC5mzwQ-QnuMoCTjKRgJP1KYOdbq7QhlztT5d9UdcgHUymMBiE_aSdimHazQ3Ul0PdsP0-Vjh6WAMCJkTWfY4=",
+    "overrideIndeedApplyText": true,
+    "preciseLocationModel": {
+      "obfuscateLocation": false,
+      "overrideJCMPreciseLocationModel": true
+    },
+    "pubDate": 1704434400000,
+    "rankingScoresModel": {
+      "bid": 0,
+      "eApply": 0.010007613,
+      "eQualified": 0
+    },
+    "redirectToThirdPartySite": false,
+    "remoteLocation": false,
+    "resumeMatch": false,
+    "salarySnippet": {
+      "currency": "GBP",
+      "salaryTextFormatted": false,
+      "source": "EXTRACTION",
+      "text": "£9.50 - £10.42 an hour"
+    },
+    "saved": false,
+    "savedApplication": false,
+    "screenerQuestionsURL": "",
+    "searchUID": "1hlbr990jk7pn800",
+    "showAttainabilityBadge": false,
+    "showCommutePromo": false,
+    "showEarlyApply": false,
+    "showJobType": false,
+    "showRelativeDate": true,
+    "showSponsoredLabel": false,
+    "showStrongerAppliedLabel": false,
+    "smartFillEnabled": false,
+    "smbD2iEnabled": false,
+    "snippet": "At Iceland we like to do things differently. We are a fair and ethical retailer, who believe in investing in our people and making a difference. We are now…",
+    "sourceId": 77412,
+    "sponsored": false,
+    "taxoAttributes": [],
+    "taxoAttributesDisplayLimit": 4,
+    "taxoLogAttributes": [],
+    "taxonomyAttributes": [
+      {
+        "attributes": [
+          {
+            "label": "Part-time",
+            "suid": "75GKK"
+          }
+        ],
+        "label": "job-types"
+      },
+      {
+        "attributes": [],
+        "label": "shifts"
+      },
+      {
+        "attributes": [],
+        "label": "remote"
+      },
+      {
+        "attributes": [],
+        "label": "benefits"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Part-time",
+            "suid": "75GKK"
+          }
+        ],
+        "label": "job-types-cc"
+      },
+      {
+        "attributes": [],
+        "label": "schedules"
+      }
+    ],
+    "thirdPartyApplyUrl": "http://uk.indeed.com//applystart?jk=572b2b9dc4581e58&from=jobsearch&mvj=0&jobsearchTk=1hlbr990jk7pn800&spon=0&adid=0&xkcb=SoCt67M3Fr-q_kzOlZ0AbzkdCdPP&sjdu=IxSMW8ma6iZtDj1pwOHuUCNXkt5ixnGlOmqFk3PjEsTRAKt-GJa1TlanU_SiAAR-7MRiw7J25k61Ru88ySzTujGqSRXi8dWVPKd4keYUR0A4U2QNHIuNH1ICVyv8hPPpJFF-wPAL4CBw3BcB6UJ3cl8qPohQUneQN03oQQK3nBiHO66deejkeLJmNV-7h_1oR5LNdPXRZWuP-EF42Ru5JLqtQFw2xZ_Gys02Un2bfspGUHRWQ9cRqVVvUJO7N9gf3Bv4qx58xSkaEDxJaCtfOg&vjfrom=vjs&astse=3c0b353cd924950f&assa=3027",
+    "tier": {
+      "matchedPreferences": {
+        "longMatchedPreferences": [],
+        "stringMatchedPreferences": []
+      },
+      "type": "DEFAULT"
+    },
+    "title": "Retail Assistant",
+    "translatedAttributes": [],
+    "translatedCmiJobTags": [],
+    "truncatedCompany": "Iceland",
+    "urgentlyHiring": false,
+    "viewJobLink": "/viewjob?jk=572b2b9dc4581e58&from=vjs&tk=1hlbr990jk7pn800&viewtype=embedded&xkcb=SoCt67M3Fr-q_kzOlZ0AbzkdCdPP&continueUrl=%2Fjobs%3Fq%3D%26vjk%3De525df493a1ef7f8%26l%3DSheffield%252C%2BSouth%2BYorkshire",
+    "vjFeaturedEmployerCandidate": false
+  },
+  {
+    "appliedOrGreater": false,
+    "applyCount": 0,
+    "blobKey": "SoAj67M3Fr-q_kzOlZ0HbzkdCdPP",
+    "clickLoggingUrl": "/rc/clk?jk=f6b2d0942d30c8c0&from=jasx&tk=1hlbr990jk7pn800&bb=CcJ391SNJQpTN1oew-GA4fRoilczCrKmPsVjD6dCyhQbXa9w-64NXVCtLRipK5EG1ji-nc74Lyae9FmcI0iheT37l_d7uCprxcQ2Emvf9DSfcWTFxt0ikw%3D%3D&xkcb=SoAj67M3Fr-q_kzOlZ0HbzkdCdPP&vjs=2",
+    "company": "Owlerton Stadium",
+    "companyBrandingAttributes": {
+      "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6126d8f431ab2eb6f6aa700e47cfaf91"
+    },
+    "companyIdEncrypted": "c32db3207b190f9b",
+    "companyOverviewLink": "/cmp/Owlerton-Stadium",
+    "companyOverviewLinkCampaignId": "",
+    "companyRating": 3.1,
+    "companyReviewCount": 15,
+    "companyReviewLink": "/cmp/Owlerton-Stadium/reviews",
+    "companyReviewLinkCampaignId": "cmplinktst2",
+    "createDate": 1638553733000,
+    "d2iEnabled": false,
+    "displayTitle": "Restaurant Staff",
+    "dradisJob": false,
+    "employerAssistEnabled": false,
+    "employerResponsive": false,
+    "encryptedFccompanyId": "480f3ecc98ce3f30",
+    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+    "enhancedAttributesModel": {},
+    "enticers": [],
+    "expired": false,
+    "extractTrackingUrls": "",
+    "fccompanyId": -1,
+    "featuredCompanyAttributes": {},
+    "featuredEmployer": false,
+    "featuredEmployerCandidate": false,
+    "feedId": 245811,
+    "formattedLocation": "Sheffield",
+    "formattedRelativeTime": "30+ days ago",
+    "hideMetaData": false,
+    "highQualityMarketplace": {
+      "match": false
+    },
+    "highVolumeHiringModel": {
+      "highVolumeHiring": false
+    },
+    "hiringEventJob": false,
+    "homepageJobFeedSectionId": "0",
+    "indeedApplyEnabled": false,
+    "indeedApplyable": false,
+    "isJobVisited": false,
+    "isMobileThirdPartyApplyable": false,
+    "isNoResumeJob": false,
+    "isSubsidiaryJob": false,
+    "jobCardRequirementsModel": {
+      "additionalRequirementsCount": 0,
+      "jobTagRequirements": [],
+      "requirementsHeaderShown": false
+    },
+    "jobLocationCity": "Sheffield",
+    "jobLocationState": "ENG",
+    "jobTypes": [],
+    "jobkey": "f6b2d0942d30c8c0",
+    "jsiEnabled": false,
+    "link": "/rc/clk?jk=f6b2d0942d30c8c0&bb=CcJ391SNJQpTN1oew-GA4fRoilczCrKmPsVjD6dCyhQbXa9w-64NXVCtLRipK5EGJ1uXUehGLwmChlEKiXtVM6B0KWrWQPsydsNDRvaJT2Q%3D&xkcb=SoAj67M3Fr-q_kzOlZ0HbzkdCdPP&fccid=ac7c341fadbda167&vjs=3",
+    "locationCount": 1,
+    "loceJobTagModel": {},
+    "mobtk": "1hlbr990jk7pn800",
+    "moreLinks": {
+      "companyName": "Owlerton Stadium",
+      "companyText": "Owlerton Stadium jobs",
+      "locationName": "Sheffield",
+      "qnaUrl": "/cmp/Owlerton-Stadium/faq",
+      "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=f6b2d0942d30c8c0&jcid=c32db3207b190f9b",
+      "resultNumber": 12,
+      "salaryLocationName": "Sheffield",
+      "salaryNoFollowLink": false,
+      "salaryUrl": "/career/restaurant-staff/salaries/Sheffield",
+      "salaryUrlParams": "?campaignid=serp-more&fromjk=f6b2d0942d30c8c0&from=serp-more",
+      "shortLocationName": "Sheffield",
+      "showAcmeLink": true,
+      "showAcmeQnaLink": true,
+      "showViewAllCompanyAndLocationLinks": false,
+      "showViewAllCompanyLink": true,
+      "showViewAllLocationLink": false,
+      "showViewAllNormalizedTitleLink": false,
+      "viewAllCompanyLinkText": "Owlerton Stadium jobs",
+      "viewAllCompanyUrl": "/q-owlerton-stadium-jobs.html",
+      "viewAllLocationUrl": "/l-sheffield-jobs.html",
+      "visible": false
+    },
+    "moreLocUrl": "/jobs?q=&l=Sheffield%2C+South+Yorkshire&jtid=2510ae993c4ab144&jcid=c32db3207b190f9b&grp=tcl",
+    "mouseDownHandlerOption": {
+      "adId": "",
+      "advn": "",
+      "extractTrackingUrls": [],
+      "from": "vjs",
+      "jobKey": "f6b2d0942d30c8c0",
+      "link": "/rc/clk?jk=f6b2d0942d30c8c0&bb=CcJ391SNJQpTN1oew-GA4fRoilczCrKmPsVjD6dCyhQbXa9w-64NXVCtLRipK5EGJ1uXUehGLwmChlEKiXtVM6B0KWrWQPsydsNDRvaJT2Q%3D&xkcb=SoAj67M3Fr-q_kzOlZ0HbzkdCdPP&fccid=ac7c341fadbda167&vjs=3",
+      "tk": "1hlbr990jk7pn800"
+    },
+    "newJob": false,
+    "normTitle": "Restaurant Staff",
+    "openInterviewsInterviewsOnTheSpot": false,
+    "openInterviewsJob": false,
+    "openInterviewsOffersOnTheSpot": false,
+    "openInterviewsPhoneJob": false,
+    "organicApplyStartCount": 195,
+    "organicBlob": "CcJ391SNJQpTN1oew-GA4fRoilczCrKmPsVjD6dCyhQbXa9w-64NXVCtLRipK5EGJ1uXUehGLwmChlEKiXtVM6B0KWrWQPsydsNDRvaJT2Q=",
+    "overrideIndeedApplyText": true,
+    "preciseLocationModel": {
+      "obfuscateLocation": false,
+      "overrideJCMPreciseLocationModel": true
+    },
+    "pubDate": 1634187600000,
+    "rankingScoresModel": {
+      "bid": 0,
+      "eApply": 0.0078283455,
+      "eQualified": 0
+    },
+    "redirectToThirdPartySite": false,
+    "remoteLocation": false,
+    "resumeMatch": false,
+    "salarySnippet": {
+      "currency": "",
+      "salaryTextFormatted": false
+    },
+    "saved": false,
+    "savedApplication": false,
+    "screenerQuestionsURL": "",
+    "searchUID": "1hlbr990jk7pn800",
+    "showAttainabilityBadge": false,
+    "showCommutePromo": false,
+    "showEarlyApply": false,
+    "showJobType": false,
+    "showRelativeDate": true,
+    "showSponsoredLabel": false,
+    "showStrongerAppliedLabel": false,
+    "smartFillEnabled": false,
+    "smbD2iEnabled": false,
+    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li>The successful candidate will have strong interpersonal skills and will be confident in dealing with a wide variety of jobs.</li>\n</ul>",
+    "sourceId": 7225159,
+    "sponsored": false,
+    "taxoAttributes": [],
+    "taxoAttributesDisplayLimit": 4,
+    "taxoLogAttributes": [],
+    "taxonomyAttributes": [
+      {
+        "attributes": [],
+        "label": "job-types"
+      },
+      {
+        "attributes": [],
+        "label": "shifts"
+      },
+      {
+        "attributes": [],
+        "label": "remote"
+      },
+      {
+        "attributes": [],
+        "label": "benefits"
+      },
+      {
+        "attributes": [],
+        "label": "job-types-cc"
+      },
+      {
+        "attributes": [],
+        "label": "schedules"
+      }
+    ],
+    "thirdPartyApplyUrl": "http://uk.indeed.com//applystart?jk=f6b2d0942d30c8c0&from=jobsearch&mvj=0&jobsearchTk=1hlbr990jk7pn800&spon=0&adid=0&xkcb=SoAj67M3Fr-q_kzOlZ0HbzkdCdPP&sjdu=ZwdZi6DN9E54J6XBt_MmlXcLTqdG0YPB4K4QPOB2-NPRAKt-GJa1TlanU_SiAAR-QgH0SJxwxKYX7VqDyEqdtVdIU3ZISmjxtPxb2T1rXuf7ZBPamPHbt2Zt4a-ez4TcxWL5sI_EpFx5x0faIR0PJar5Xh79LklYUlnUkB3vwk7E2RYoLM5Bmn-HB_6RJpCxfnHUy3cimaMcqiXkOQDsEuSfOg1AiiRp5xPp1L4DJItj21DPVAROD0UGRB6k2rlZWMZdoEdJZVNAWIb-xtVCAQ&vjfrom=vjs&astse=b0de6b909f1a50ea&assa=3028",
+    "tier": {
+      "matchedPreferences": {
+        "longMatchedPreferences": [],
+        "stringMatchedPreferences": []
+      },
+      "type": "DEFAULT"
+    },
+    "title": "Restaurant Staff",
+    "translatedAttributes": [],
+    "translatedCmiJobTags": [],
+    "truncatedCompany": "Owlerton Stadium",
+    "urgentlyHiring": false,
+    "viewJobLink": "/viewjob?jk=f6b2d0942d30c8c0&from=vjs&tk=1hlbr990jk7pn800&viewtype=embedded&xkcb=SoAj67M3Fr-q_kzOlZ0HbzkdCdPP&continueUrl=%2Fjobs%3Fq%3D%26vjk%3De525df493a1ef7f8%26l%3DSheffield%252C%2BSouth%2BYorkshire",
+    "vjFeaturedEmployerCandidate": false
+  },
+  {
+    "appliedOrGreater": false,
+    "applyCount": -1,
+    "blobKey": "SoCX67M3Fr-q_kzOlZ0GbzkdCdPP",
+    "clickLoggingUrl": "/rc/clk?jk=8e747807d1ea784f&from=jasx&tk=1hlbr990jk7pn800&bb=CcJ391SNJQpTN1oew-GA4QxSBtcIU9scvxWwe1Dq0qSI-kRBShZatit4cw8gENjcl5w2OfCDwMt4ttZ8IKoHKKOO9XDoCv6DKjDSI9pDBeIpj638dX702w%3D%3D&xkcb=SoCX67M3Fr-q_kzOlZ0GbzkdCdPP&vjs=2",
+    "company": "Miller & Carter",
+    "companyBrandingAttributes": {
+      "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0fbc00f17b5d2363949c14f2f2514918"
+    },
+    "companyIdEncrypted": "16082456b53db8d4",
+    "companyOverviewLink": "/cmp/Miller-&-Carter",
+    "companyOverviewLinkCampaignId": "",
+    "companyRating": 3.1,
+    "companyReviewCount": 431,
+    "companyReviewLink": "/cmp/Miller-&-Carter/reviews",
+    "companyReviewLinkCampaignId": "cmplinktst2",
+    "createDate": 1706528104000,
+    "d2iEnabled": false,
+    "displayTitle": "Waiting Staff",
+    "dradisJob": false,
+    "employerAssistEnabled": false,
+    "employerResponseTime": 1,
+    "employerResponsive": true,
+    "encryptedFccompanyId": "7d10d2c64542cad6",
+    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+    "enhancedAttributesModel": {},
+    "enticers": [],
+    "expired": false,
+    "extractTrackingUrls": "",
+    "fccompanyId": -1,
+    "featuredCompanyAttributes": {},
+    "featuredEmployer": false,
+    "featuredEmployerCandidate": false,
+    "feedId": 8254,
+    "formattedLocation": "Sheffield S9",
+    "formattedRelativeTime": "Today",
+    "hideMetaData": false,
+    "highQualityMarketplace": {
+      "match": false
+    },
+    "highVolumeHiringModel": {
+      "highVolumeHiring": false
+    },
+    "hiringEventJob": false,
+    "homepageJobFeedSectionId": "0",
+    "indeedApplyEnabled": false,
+    "indeedApplyable": false,
+    "isJobVisited": false,
+    "isMobileThirdPartyApplyable": true,
+    "isNoResumeJob": false,
+    "isSubsidiaryJob": false,
+    "jobCardRequirementsModel": {
+      "additionalRequirementsCount": 0,
+      "jobTagRequirements": [],
+      "requirementsHeaderShown": false
+    },
+    "jobLocationCity": "Sheffield",
+    "jobLocationPostal": "S9 2EP",
+    "jobLocationState": "ENG",
+    "jobTypes": [],
+    "jobkey": "8e747807d1ea784f",
+    "jsiEnabled": false,
+    "link": "/rc/clk?jk=8e747807d1ea784f&bb=CcJ391SNJQpTN1oew-GA4QxSBtcIU9scvxWwe1Dq0qSI-kRBShZatit4cw8gENjcutDs_wQT55-3GN-xwIb7Ier2helq0OLOfraiiTjjn6o%3D&xkcb=SoCX67M3Fr-q_kzOlZ0GbzkdCdPP&fccid=16082456b53db8d4&vjs=3",
+    "locationCount": 1,
+    "mobtk": "1hlbr990jk7pn800",
+    "moreLinks": {
+      "companyName": "Miller & Carter",
+      "companyText": "Miller & Carter jobs",
+      "locationName": "Sheffield",
+      "qnaUrl": "/cmp/Miller-&-Carter/faq",
+      "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=8e747807d1ea784f&jcid=16082456b53db8d4",
+      "resultNumber": 13,
+      "salaryLocationName": "Sheffield",
+      "salaryNoFollowLink": false,
+      "salaryUrl": "/career/server/salaries/Sheffield-S9",
+      "salaryUrlParams": "?campaignid=serp-more&fromjk=8e747807d1ea784f&from=serp-more",
+      "shortLocationName": "Sheffield",
+      "showAcmeLink": true,
+      "showAcmeQnaLink": true,
+      "showViewAllCompanyAndLocationLinks": false,
+      "showViewAllCompanyLink": true,
+      "showViewAllLocationLink": false,
+      "showViewAllNormalizedTitleLink": true,
+      "viewAllCompanyLinkText": "Miller & Carter jobs",
+      "viewAllCompanyUrl": "/q-miller-&-carter-jobs.html",
+      "viewAllLocationUrl": "/l-sheffield-jobs.html",
+      "viewAllNormalizedTitleLink": "/q-server-l-sheffield-jobs.html",
+      "viewAllNormalizedTitleLinkText": "Server jobs in Sheffield",
+      "visible": false
+    },
+    "moreLocUrl": "/jobs?q=&l=Sheffield%2C+South+Yorkshire&jtid=e06b849cba362a8f&jcid=16082456b53db8d4&grp=tcl",
+    "mouseDownHandlerOption": {
+      "adId": "",
+      "advn": "",
+      "extractTrackingUrls": [],
+      "from": "vjs",
+      "jobKey": "8e747807d1ea784f",
+      "link": "/rc/clk?jk=8e747807d1ea784f&bb=CcJ391SNJQpTN1oew-GA4QxSBtcIU9scvxWwe1Dq0qSI-kRBShZatit4cw8gENjcutDs_wQT55-3GN-xwIb7Ier2helq0OLOfraiiTjjn6o%3D&xkcb=SoCX67M3Fr-q_kzOlZ0GbzkdCdPP&fccid=16082456b53db8d4&vjs=3",
+      "tk": "1hlbr990jk7pn800"
+    },
+    "newJob": true,
+    "normTitle": "Server",
+    "openInterviewsInterviewsOnTheSpot": false,
+    "openInterviewsJob": false,
+    "openInterviewsOffersOnTheSpot": false,
+    "openInterviewsPhoneJob": false,
+    "organicApplyStartCount": 0,
+    "organicBlob": "CcJ391SNJQpTN1oew-GA4QxSBtcIU9scvxWwe1Dq0qSI-kRBShZatit4cw8gENjcutDs_wQT55-3GN-xwIb7Ier2helq0OLOfraiiTjjn6o=",
+    "overrideIndeedApplyText": true,
+    "preciseLocationModel": {
+      "obfuscateLocation": false,
+      "overrideJCMPreciseLocationModel": true
+    },
+    "pubDate": 1706508000000,
+    "rankingScoresModel": {
+      "bid": 0,
+      "eApply": 0.00782717,
+      "eQualified": 0
+    },
+    "redirectToThirdPartySite": false,
+    "remoteLocation": false,
+    "resumeMatch": false,
+    "salarySnippet": {
+      "currency": "",
+      "salaryTextFormatted": false
+    },
+    "saved": false,
+    "savedApplication": false,
+    "screenerQuestionsURL": "",
+    "searchUID": "1hlbr990jk7pn800",
+    "showAttainabilityBadge": false,
+    "showCommutePromo": false,
+    "showEarlyApply": false,
+    "showJobType": false,
+    "showRelativeDate": true,
+    "showSponsoredLabel": false,
+    "showStrongerAppliedLabel": false,
+    "smartFillEnabled": false,
+    "smbD2iEnabled": false,
+    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li>As Waiting Staff at Miller &amp; Carter - Sheffield Centertainment, you will give a warm welcome and excellent service to everyone who visits, serving food and…</li>\n</ul>",
+    "sourceId": 20446,
+    "sponsored": false,
+    "taxoAttributes": [],
+    "taxoAttributesDisplayLimit": 4,
+    "taxoLogAttributes": [],
+    "taxonomyAttributes": [
+      {
+        "attributes": [
+          {
+            "label": "Full-time",
+            "suid": "CF3CP"
+          }
+        ],
+        "label": "job-types"
+      },
+      {
+        "attributes": [],
+        "label": "shifts"
+      },
+      {
+        "attributes": [],
+        "label": "remote"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Company pension",
+            "suid": "KBRYN"
+          },
+          {
+            "label": "Employee discount",
+            "suid": "SXFZX"
+          }
+        ],
+        "label": "benefits"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Full-time",
+            "suid": "CF3CP"
+          }
+        ],
+        "label": "job-types-cc"
+      },
+      {
+        "attributes": [],
+        "label": "schedules"
+      }
+    ],
+    "thirdPartyApplyUrl": "http://uk.indeed.com//applystart?jk=8e747807d1ea784f&from=jobsearch&mvj=0&jobsearchTk=1hlbr990jk7pn800&spon=0&adid=0&xkcb=SoCX67M3Fr-q_kzOlZ0GbzkdCdPP&sjdu=47vupZKPYe5YykXsdwifY8XhsHhLrh3g33FjvubJ6XfRAKt-GJa1TlanU_SiAAR-34gnMethQCQCju2CY8pMRjQnjZ5YQ-lODmBISSeHIt-s7pi-MjKDKxDN3hhfEwWDB6n9XMJGd--ytf8qTnMD_YZa7HwfcTHxbeJuW0n4q5Lazt5XemcMdJOxLeM9aQlq7gyAfZNlAecHhOK3HXbXXcoqiAeFHG48b7XtRFXR-YroSFqpYQwbVydflbO9rG8jtRfGZM8XdTGjx-uU0z1tcw&vjfrom=vjs&astse=b0de6b909f1a50ea&assa=3028",
+    "tier": {
+      "matchedPreferences": {
+        "longMatchedPreferences": [],
+        "stringMatchedPreferences": []
+      },
+      "type": "DEFAULT"
+    },
+    "title": "Waiting Staff",
+    "translatedAttributes": [],
+    "translatedCmiJobTags": [
+      "社割あり"
+    ],
+    "truncatedCompany": "Miller & Carter",
+    "urgentlyHiring": false,
+    "viewJobLink": "/viewjob?jk=8e747807d1ea784f&from=vjs&tk=1hlbr990jk7pn800&viewtype=embedded&xkcb=SoCX67M3Fr-q_kzOlZ0GbzkdCdPP&continueUrl=%2Fjobs%3Fq%3D%26vjk%3De525df493a1ef7f8%26l%3DSheffield%252C%2BSouth%2BYorkshire",
+    "vjFeaturedEmployerCandidate": false
+  },
+  {
+    "appliedOrGreater": false,
+    "applyCount": 0,
+    "blobKey": "SoAK67M3Fr-q_kzOlZ0FbzkdCdPP",
+    "clickLoggingUrl": "/rc/clk?jk=2224a3515516d615&from=jasx&tk=1hlbr990jk7pn800&bb=CcJ391SNJQpTN1oew-GA4Ql9hng7_4TRpAj2IQFbOs1i_zrV_7Ijshm21qScWgzUQR-9edHI9242vygb5txblSYM7x5thh-ec8xZngn39FnjHMT3kZJ_hw%3D%3D&xkcb=SoAK67M3Fr-q_kzOlZ0FbzkdCdPP&vjs=2",
+    "company": "Sheffield City Council",
+    "companyBrandingAttributes": {
+      "headerImageUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/39cc0e066780c2d032bf135f0c84c6a3",
+      "logoUrl": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/f16312f69c225c6952302885451c3efc"
+    },
+    "companyIdEncrypted": "77ce54e70d73dc41",
+    "companyOverviewLink": "/cmp/Sheffield-City-Council-1",
+    "companyOverviewLinkCampaignId": "serp-linkcompanyname-content",
+    "companyRating": 3.7,
+    "companyReviewCount": 133,
+    "companyReviewLink": "/cmp/Sheffield-City-Council-1/reviews",
+    "companyReviewLinkCampaignId": "cmplinktst2",
+    "createDate": 1705416097000,
+    "d2iEnabled": false,
+    "displayTitle": "Senior Customer Service Advisor",
+    "dradisJob": false,
+    "employerAssistEnabled": false,
+    "employerResponsive": false,
+    "encryptedFccompanyId": "2b2767fe3e399403",
+    "encryptedResultData": "VwIPTVJ1cTn5AN7Q-tSqGRXGNe2wB2UYx73qSczFnGU",
+    "enhancedAttributesModel": {},
+    "enticers": [],
+    "expired": false,
+    "extractTrackingUrls": "",
+    "extractedSalary": {
+      "max": 30296,
+      "min": 27803,
+      "type": "yearly"
+    },
+    "fccompanyId": -1,
+    "featuredCompanyAttributes": {},
+    "featuredEmployer": false,
+    "featuredEmployerCandidate": false,
+    "feedId": 43717,
+    "formattedLocation": "Sheffield",
+    "formattedRelativeTime": "13 days ago",
+    "hideMetaData": false,
+    "highQualityMarketplace": {
+      "match": false
+    },
+    "highVolumeHiringModel": {
+      "highVolumeHiring": false
+    },
+    "hiringEventJob": false,
+    "homepageJobFeedSectionId": "0",
+    "indeedApplyEnabled": false,
+    "indeedApplyable": false,
+    "isJobVisited": false,
+    "isMobileThirdPartyApplyable": false,
+    "isNoResumeJob": false,
+    "isSubsidiaryJob": false,
+    "jobCardRequirementsModel": {
+      "additionalRequirementsCount": 0,
+      "jobTagRequirements": [],
+      "requirementsHeaderShown": false
+    },
+    "jobLocationCity": "Sheffield",
+    "jobLocationState": "ENG",
+    "jobTypes": [
+      "Permanent"
+    ],
+    "jobkey": "2224a3515516d615",
+    "jsiEnabled": false,
+    "link": "/rc/clk?jk=2224a3515516d615&bb=CcJ391SNJQpTN1oew-GA4Ql9hng7_4TRpAj2IQFbOs1i_zrV_7Ijshm21qScWgzUQzU9VGYxE3SHyXPFJP7sZUlTGBQxm-VNOCDSEcjY5oM%3D&xkcb=SoAK67M3Fr-q_kzOlZ0FbzkdCdPP&fccid=329871b8b066aab1&vjs=3",
+    "locationCount": 1,
+    "mobtk": "1hlbr990jk7pn800",
+    "moreLinks": {
+      "companyName": "Sheffield City Council",
+      "companyText": "Sheffield City Council jobs",
+      "locationName": "Sheffield",
+      "qnaUrl": "/cmp/Sheffield-City-Council-1/faq",
+      "qnaUrlParams": "?from=serp-more&campaignid=serp-more&fromjk=2224a3515516d615&jcid=77ce54e70d73dc41",
+      "resultNumber": 14,
+      "salaryLocationName": "Sheffield",
+      "salaryNoFollowLink": false,
+      "salaryUrl": "/career/customer-service-representative/salaries/Sheffield",
+      "salaryUrlParams": "?campaignid=serp-more&fromjk=2224a3515516d615&from=serp-more",
+      "shortLocationName": "Sheffield",
+      "showAcmeLink": true,
+      "showAcmeQnaLink": true,
+      "showViewAllCompanyAndLocationLinks": false,
+      "showViewAllCompanyLink": true,
+      "showViewAllLocationLink": false,
+      "showViewAllNormalizedTitleLink": true,
+      "viewAllCompanyLinkText": "Sheffield City Council jobs",
+      "viewAllCompanyUrl": "/q-sheffield-city-council-jobs.html",
+      "viewAllLocationUrl": "/l-sheffield-jobs.html",
+      "viewAllNormalizedTitleLink": "/q-customer-service-representative-l-sheffield-jobs.html",
+      "viewAllNormalizedTitleLinkText": "Customer Service Representative jobs in Sheffield",
+      "visible": false
+    },
+    "moreLocUrl": "/jobs?q=&l=Sheffield%2C+South+Yorkshire&jtid=cb2fd37e2a5435fe&jcid=77ce54e70d73dc41&grp=tcl",
+    "mouseDownHandlerOption": {
+      "adId": "",
+      "advn": "",
+      "extractTrackingUrls": [],
+      "from": "vjs",
+      "jobKey": "2224a3515516d615",
+      "link": "/rc/clk?jk=2224a3515516d615&bb=CcJ391SNJQpTN1oew-GA4Ql9hng7_4TRpAj2IQFbOs1i_zrV_7Ijshm21qScWgzUQzU9VGYxE3SHyXPFJP7sZUlTGBQxm-VNOCDSEcjY5oM%3D&xkcb=SoAK67M3Fr-q_kzOlZ0FbzkdCdPP&fccid=329871b8b066aab1&vjs=3",
+      "tk": "1hlbr990jk7pn800"
+    },
+    "newJob": false,
+    "normTitle": "Customer Service Representative",
+    "openInterviewsInterviewsOnTheSpot": false,
+    "openInterviewsJob": false,
+    "openInterviewsOffersOnTheSpot": false,
+    "openInterviewsPhoneJob": false,
+    "organicApplyStartCount": 245,
+    "organicBlob": "CcJ391SNJQpTN1oew-GA4Ql9hng7_4TRpAj2IQFbOs1i_zrV_7Ijshm21qScWgzUQzU9VGYxE3SHyXPFJP7sZUlTGBQxm-VNOCDSEcjY5oM=",
+    "overrideIndeedApplyText": true,
+    "preciseLocationModel": {
+      "obfuscateLocation": false,
+      "overrideJCMPreciseLocationModel": true
+    },
+    "pubDate": 1705384800000,
+    "rankingScoresModel": {
+      "bid": 0,
+      "eApply": 0.007830727,
+      "eQualified": 0
+    },
+    "redirectToThirdPartySite": false,
+    "remoteLocation": false,
+    "remoteWorkModel": {
+      "inlineText": true,
+      "type": "REMOTE_HYBRID"
+    },
+    "resumeMatch": false,
+    "salarySnippet": {
+      "currency": "GBP",
+      "salaryTextFormatted": false,
+      "source": "EXTRACTION",
+      "text": "£27,803 - £30,296 a year"
+    },
+    "saved": false,
+    "savedApplication": false,
+    "screenerQuestionsURL": "",
+    "searchUID": "1hlbr990jk7pn800",
+    "showAttainabilityBadge": false,
+    "showCommutePromo": false,
+    "showEarlyApply": false,
+    "showJobType": false,
+    "showRelativeDate": true,
+    "showSponsoredLabel": false,
+    "showStrongerAppliedLabel": false,
+    "smartFillEnabled": false,
+    "smbD2iEnabled": false,
+    "snippet": "<ul style=\"list-style-type:circle;margin-top: 0px;margin-bottom: 0px;padding-left:20px;\"> \n <li>Full induction and job training will be provided at our city centre office to ensure you feel confident and have the tools to be able to carry out the role.</li>\n</ul>",
+    "sourceId": 79722,
+    "sponsored": false,
+    "taxoAttributes": [
+      "Disability confident",
+      "Hybrid remote"
+    ],
+    "taxoAttributesDisplayLimit": 4,
+    "taxoLogAttributes": [
+      "EUKSS",
+      "PAXZC"
+    ],
+    "taxonomyAttributes": [
+      {
+        "attributes": [],
+        "label": "job-types"
+      },
+      {
+        "attributes": [],
+        "label": "shifts"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Hybrid remote",
+            "suid": "PAXZC"
+          }
+        ],
+        "label": "remote"
+      },
+      {
+        "attributes": [],
+        "label": "benefits"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Permanent",
+            "suid": "5QWDV"
+          }
+        ],
+        "label": "job-types-cc"
+      },
+      {
+        "attributes": [
+          {
+            "label": "Monday to Friday",
+            "suid": "SAP7A"
+          }
+        ],
+        "label": "schedules"
+      }
+    ],
+    "thirdPartyApplyUrl": "http://uk.indeed.com//applystart?jk=2224a3515516d615&from=jobsearch&mvj=0&jobsearchTk=1hlbr990jk7pn800&spon=0&adid=0&xkcb=SoAK67M3Fr-q_kzOlZ0FbzkdCdPP&sjdu=g_QiHz25oi0ws6tJntYF3XwillmiZ_Ety2m_gD4BJznRAKt-GJa1TlanU_SiAAR-Ql-V9nl4ihXPM63pmLI-708__o0N2b-zZbDgahXKMFTpfJK5UZ8l5WMy2XLkdW3NMNorjPbRMBnB77sIq_FZbak6hSmzeQkPHWtpF2EAbwCMjDgbRJaKZegleXVzhQ8sjH-hpfelhJ5AYgrFK3lrgrvR_d1uymzqrOs2-m5h-bWz8MSRUbpwyzykFQQ5pWUqigBZ2wEtcUuSZ1Q6kprl5w&vjfrom=vjs&astse=b0de6b909f1a50ea&assa=3028",
+    "tier": {
+      "matchedPreferences": {
+        "longMatchedPreferences": [],
+        "stringMatchedPreferences": []
+      },
+      "type": "DEFAULT"
+    },
+    "title": "Senior Customer Service Advisor",
+    "translatedAttributes": [],
+    "translatedCmiJobTags": [
+      "英語"
+    ],
+    "truncatedCompany": "Sheffield City Council",
+    "urgentlyHiring": false,
+    "viewJobLink": "/viewjob?jk=2224a3515516d615&from=vjs&tk=1hlbr990jk7pn800&viewtype=embedded&xkcb=SoAK67M3Fr-q_kzOlZ0FbzkdCdPP&continueUrl=%2Fjobs%3Fq%3D%26vjk%3De525df493a1ef7f8%26l%3DSheffield%252C%2BSouth%2BYorkshire",
+    "vjFeaturedEmployerCandidate": false
+  }
+]
