@@ -46,9 +46,7 @@ if __name__ == "__main__":
 # transfer the output JSON to excel file
 print("Start transfer")
 json_file_path = 'C:/Users/user/Desktop/工作/工作爬蟲/indeed-scrapers/results/search.json'
-excel_file_path = 'jobSearchResult.xlsx'                 # 您希望创建的 Excel 文件名
+excel_file_path = 'jobSearchResult.xlsx'                 # excel name
 print("haaaaa")
-# 调用函数
-json_to_excel(json_file_path, excel_file_path)
 
-# run.py 的其余部分...
+json_to_excel(json_file_path, excel_file_path)
